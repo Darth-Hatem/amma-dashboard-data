@@ -1,193 +1,193 @@
-dataType,category,identifier,metric,period,value,unit,
-inventory,total, B0SAMPL1, current-stock , current ,236, units ,
-inventory,total, B0SAMPL2, current-stock , current ,79, units ,
-inventory,total, B0SAMPL3, current-stock , current ,22, units ,
-inventory,total, B0SAMPL4, current-stock , current ,194, units ,
-inventory,total, B0SAMPL5, current-stock , current ,25, units ,
-inventory,total, B0SAMPL6, current-stock , current ,83, units ,
-inventory,total, B0SAMPL7, current-stock , current ,26, units ,
-inventory,total, B0SAMPL8, current-stock , current ,47, units ,
-inventory,total, B0SAMPL9, current-stock , current ,41, units ,
-inventory,total, B0SAMP10, current-stock , current ,48, units ,
-inventory,total, B0SAMPL1, sku , current ,Sampl1, text ,
-inventory,total, B0SAMPL2, sku , current ,Sampl2, text ,
-inventory,total, B0SAMPL3, sku , current ,Sampl3, text ,
-inventory,total, B0SAMPL4, sku , current ,Sampl4, text ,
-inventory,total, B0SAMPL5, sku , current ,Sampl5, text ,
-inventory,total, B0SAMPL6, sku , current ,Sampl6, text ,
-inventory,total, B0SAMPL7, sku , current ,Sampl7, text ,
-inventory,total, B0SAMPL8, sku , current ,Sampl8, text ,
-inventory,total, B0SAMPL9, sku , current ,Sampl9, text ,
-inventory,total, B0SAMP10, sku , current ,Sampl10, text ,
-inventory,total, B0SAMPL1, product-title , current ,Redemption Song, text ,Stir It Up
-inventory,total, B0SAMPL2, product-title , current ,Three Little Birds, text ,Three Little Birds
-inventory,total, B0SAMPL3, product-title , current ,One Love, text ,One Love
-inventory,total, B0SAMPL4, product-title , current ,"Get Up, Stand Up", text ,"Get Up, Stand Up"
-inventory,total, B0SAMPL5, product-title , current ,Jamming, text ,Jamming
-inventory,total, B0SAMPL6, product-title , current ,Sun Is Shining, text ,Sun Is Shining
-inventory,total, B0SAMPL7, product-title , current ,Zimbabwe, text ,Zimbabwe
-inventory,total, B0SAMPL8, product-title , current ,Survival, text ,Survival
-inventory,total, B0SAMPL9, product-title , current ,Africa Unite, text ,Africa Unite
-inventory,total, B0SAMPL1, 90-day-forecast , current ,26, units ,
-inventory,total, B0SAMPL2, 90-day-forecast , current ,907, units ,
-inventory,total, B0SAMPL3, 90-day-forecast , current ,116, units ,
-inventory,total, B0SAMPL4, 90-day-forecast , current ,21, units ,
-inventory,total, B0SAMPL5, 90-day-forecast , current ,194, units ,
-inventory,total, B0SAMPL6, 90-day-forecast , current ,53, units ,
-inventory,total, B0SAMPL7, 90-day-forecast , current ,95, units ,
-inventory,total, B0SAMPL8, 90-day-forecast , current ,40, units ,
-inventory,total, B0SAMPL9, 90-day-forecast , current ,38, units ,
-inventory,total, B0SAMP10, 90-day-forecast , current ,31, units ,
-inventory,total, B0SAMPL1, days-of-supply , current ,66, days ,
-inventory,total, B0SAMPL2, days-of-supply , current ,28, days ,
-inventory,total, B0SAMPL3, days-of-supply , current ,59, days ,
-inventory,total, B0SAMPL4, days-of-supply , current ,99, days ,
-inventory,total, B0SAMPL5, days-of-supply , current ,90, days ,
-inventory,total, B0SAMPL6, days-of-supply , current ,42, days ,
-inventory,total, B0SAMPL7, days-of-supply , current ,80, days ,
-inventory,total, B0SAMPL8, days-of-supply , current ,62, days ,
-inventory,total, B0SAMPL9, days-of-supply , current ,130, days ,
-inventory,total, B0SAMP10, days-of-supply , current ,112, days ,
-inventory,total, B0SAMPL1, sales-last-month , current ,3, days ,
-inventory,total, B0SAMPL2, sales-last-month , current ,188, days ,
-inventory,total, B0SAMPL3, sales-last-month , current ,20, days ,
-inventory,total, B0SAMPL4, sales-last-month , current ,4, days ,
-inventory,total, B0SAMPL5, sales-last-month , current ,43, days ,
-inventory,total, B0SAMPL6, sales-last-month , current ,4, days ,
-inventory,total, B0SAMPL7, sales-last-month , current ,22, days ,
-inventory,total, B0SAMPL8, sales-last-month , current ,13, days ,
-inventory,total, B0SAMPL9, sales-last-month , current ,4, days ,
-inventory,total, B0SAMP10, sales-last-month , current ,5, days ,
-inventory,total, B0SAMPL1, requested-quantity , current ,, units ,
-inventory,total, B0SAMPL2, requested-quantity , current ,671, units ,
-inventory,total, B0SAMPL3, requested-quantity , current ,37, units ,
-inventory,total, B0SAMPL4, requested-quantity , current ,, units ,
-inventory,total, B0SAMPL5, requested-quantity , current ,, units ,
-inventory,total, B0SAMPL6, requested-quantity , current ,28, units ,
-inventory,total, B0SAMPL7, requested-quantity , current ,, units ,
-inventory,total, B0SAMPL8, requested-quantity , current ,, units ,
-inventory,total, B0SAMPL9, requested-quantity , current ,, units ,
-inventory,total, B0SAMP10, requested-quantity , current ,, units ,
-sales,total,forecast,revenue,2025-03,0,dollars,
-sales,total,forecast,revenue,2025-04,1500,dollars,
-sales,total,forecast,revenue,2025-05,5400,dollars,
-sales,total,forecast,revenue,2025-06,6480,dollars,
-sales,total,forecast,revenue,2025-07,8308,dollars,
-sales,total,forecast,revenue,2025-08,9970,dollars,
-sales,total,forecast,revenue,2025-09,7976,dollars,
-sales,total,forecast,revenue,2025-10,8773,dollars,
-sales,total,forecast,revenue,2025-11,12283,dollars,
-sales,total,forecast,revenue,2025-12,17196,dollars,
-sales,total,actual,revenue,2025-03,618,dollars,
-sales,total,gross-sales,revenue,2025-03,618,dollars,
-sales,total,units-sold,units,2025-03,48,units,
-sales,total,COGS,cost,2025-03,156,dollars,
-sales,total,referall-and-account,cost,2025-03,92,dollars,
-sales,total,fulfillment,cost,2025-03,168,dollars,
-sales,total,storage,cost,2025-03,9,dollars,
-sales,total,inbound-shipping,cost,2025-03,26,dollars,
-sales,total,amma-partners,cost,2025-03,19,dollars,
-sales,total,advertising-spend,cost,2025-03,88,dollars,
-sales,total,promotional-spend,cost,2025-03,0,dollars,
-sales,total,GCOS,calculated,2025-03,14.29,percentage,
-sales,total,profit-margin,calculated,2025-03,9.7,percentage,
-marketing,roots,segment,sales,2025-03,513,dollars,
-marketing,roots,segment,advertising-spend,2025-03,88,dollars,
-marketing,roots,segment,GCOS,2025-03,17.21,percentage,
-marketing,roots,segment,share-of-voice,2025-03,4.79,percentage,
-marketing,roots,segment,segment-share,2025-03,3.33,percentage,
-marketing,reggae,segment,sales,2025-03,60,dollars,
-marketing,reggae,segment,advertising-spend,2025-03,0,dollars,
-marketing,reggae,segment,GCOS,2025-03,0,percentage,
-marketing,reggae,segment,share-of-voice,2025-03,1.28,percentage,
-marketing,reggae,segment,segment-share,2025-03,0,percentage,
-marketing,rock,segment,sales,2025-03,60,dollars,
-marketing,rock,segment,advertising-spend,2025-03,0,dollars,
-marketing,rock,segment,GCOS,2025-03,0,percentage,
-marketing,rock,segment,share-of-voice,2025-03,2.88,percentage,
-marketing,rock,segment,segment-share,2025-03,0,percentage,
-sales,total,actual,revenue,2025-04,5042,dollars,
-sales,total,gross-sales,revenue,2025-04,5042,dollars,
-sales,total,units-sold,units,2025-04,374,units,
-sales,total,COGS,cost,2025-04,1308,dollars,
-sales,total,referall-and-account,cost,2025-04,494,dollars,
-sales,total,fulfillment,cost,2025-04,2050,dollars,
-sales,total,storage,cost,2025-04,34,dollars,
-sales,total,inbound-shipping,cost,2025-04,218,dollars,
-sales,total,amma-partners,cost,2025-04,151,dollars,
-sales,total,advertising-spend,cost,2025-04,603,dollars,
-sales,total,promotional-spend,cost,2025-04,0,dollars,
-sales,total,GCOS,calculated,2025-04,11.97,percentage,
-sales,total,profit-margin,calculated,2025-04,3.65,percentage,
-marketing,roots,segment,sales,2025-04,3894,dollars,
-marketing,roots,segment,advertising-spend,2025-04,427,dollars,
-marketing,roots,segment,GCOS,2025-04,11.06,percentage,
-marketing,roots,segment,share-of-voice,2025-04,7.4,percentage,
-marketing,roots,segment,segment-share,2025-04,11.7,percentage,
-marketing,reggae,segment,sales,2025-04,743,dollars,
-marketing,reggae,segment,advertising-spend,2025-04,122,dollars,
-marketing,reggae,segment,GCOS,2025-04,16.38,percentage,
-marketing,reggae,segment,share-of-voice,2025-04,2.4,percentage,
-marketing,reggae,segment,segment-share,2025-04,5.26,percentage,
-marketing,rock,segment,sales,2025-04,405,dollars,
-marketing,rock,segment,advertising-spend,2025-04,50,dollars,
-marketing,rock,segment,GCOS,2025-04,12.61,percentage,
-marketing,rock,segment,share-of-voice,2025-04,0.48,percentage,
-marketing,rock,segment,segment-share,2025-04,0.92,percentage,
-sales,total,actual,revenue,2025-05,4556,dollars,
-sales,total,gross-sales,revenue,2025-05,4602,dollars,
-sales,total,units-sold,units,2025-05,325,units,
-sales,total,COGS,cost,2025-05,1243,dollars,
-sales,total,referall-and-account,cost,2025-05,486,dollars,
-sales,total,fulfillment,cost,2025-05,1737,dollars,
-sales,total,storage,cost,2025-05,37,dollars,
-sales,total,inbound-shipping,cost,2025-05,205,dollars,
-sales,total,amma-partners,cost,2025-05,228,dollars,
-sales,total,advertising-spend,cost,2025-05,497,dollars,
-sales,total,promotional-spend,cost,2025-05,46,dollars,
-sales,total,GCOS,calculated,2025-05,11.79,percentage,
-sales,total,profit-margin,calculated,2025-05,2.67,percentage,
-marketing,roots,segment,sales,2025-05,3621,dollars,
-marketing,roots,segment,advertising-spend,2025-05,365,dollars,
-marketing,roots,segment,GCOS,2025-05,11.15,percentage,
-marketing,roots,segment,share-of-voice,2025-05,6.39,percentage,
-marketing,roots,segment,segment-share,2025-05,9.83,percentage,
-marketing,reggae,segment,sales,2025-05,636,dollars,
-marketing,reggae,segment,advertising-spend,2025-05,109,dollars,
-marketing,reggae,segment,GCOS,2025-05,9.33,percentage,
-marketing,reggae,segment,share-of-voice,2025-05,2.51,percentage,
-marketing,reggae,segment,segment-share,2025-05,8.43,percentage,
-marketing,rock,segment,sales,2025-05,300,dollars,
-marketing,rock,segment,advertising-spend,2025-05,24,dollars,
-marketing,rock,segment,GCOS,2025-05,8.01,percentage,
-marketing,rock,segment,share-of-voice,2025-05,0.54,percentage,
-marketing,rock,segment,segment-share,2025-05,1.23,percentage,
-sales,total,actual,revenue,2025-06 MTD,5154,dollars,
-sales,total,forecast,revenue,2025-06 MTD,6480,dollars,
-sales,total,gross-sales,revenue,2025-06 MTD,5186,dollars,
-sales,total,units-sold,units,2025-06 MTD,358,units,
-sales,total,COGS,cost,2025-06 MTD,1287,dollars,
-sales,total,referall-and-account,cost,2025-06 MTD,360,dollars,
-sales,total,fulfillment,cost,2025-06 MTD,1889,dollars,
-sales,total,storage,cost,2025-06 MTD,37,dollars,
-sales,total,inbound-shipping,cost,2025-06 MTD,219,dollars,
-sales,total,amma-partners,cost,2025-06 MTD,258,dollars,
-sales,total,advertising-spend,cost,2025-06 MTD,589,dollars,
-sales,total,promotional-spend,cost,2025-06 MTD,32,dollars,
-sales,total,GCOS,calculated,2025-06 MTD,11.97,percentage,
-sales,total,profit-margin,calculated,2025-06 MTD,9.95,percentage,
-marketing,roots,segment,sales,2025-06 MTD,4360,dollars,
-marketing,roots,segment,advertising-spend,2025-06 MTD,505,dollars,
-marketing,roots,segment,GCOS,2025-06 MTD,11.19,percentage,
-marketing,roots,segment,share-of-voice,2025-06 MTD,8.76,percentage,
-marketing,roots,segment,segment-share,2025-06 MTD,8.3,percentage,
-marketing,reggae,segment,sales,2025-06 MTD,630,dollars,
-marketing,reggae,segment,advertising-spend,2025-06 MTD,93,dollars,
-marketing,reggae,segment,GCOS,2025-06 MTD,13.51,percentage,
-marketing,reggae,segment,share-of-voice,2025-06 MTD,4.06,percentage,
-marketing,reggae,segment,segment-share,2025-06 MTD,14.63,percentage,
-marketing,rock,segment,sales,2025-06 MTD,165,dollars,
-marketing,rock,segment,advertising-spend,2025-06 MTD,52,dollars,
-marketing,rock,segment,GCOS,2025-06 MTD,27.09,percentage,
-marketing,rock,segment,share-of-voice,2025-06 MTD,0.39,percentage,
-marketing,rock,segment,segment-share,2025-06 MTD,0.51,percentage,
+dataType,category,identifier,metric,period,value,unit
+inventory,total, B0SAMPL1, current-stock , current ,3540, units 
+inventory,total, B0SAMPL2, current-stock , current ,790, units 
+inventory,total, B0SAMPL3, current-stock , current ,220, units 
+inventory,total, B0SAMPL4, current-stock , current ,1940, units 
+inventory,total, B0SAMPL5, current-stock , current ,250, units 
+inventory,total, B0SAMPL6, current-stock , current ,830, units 
+inventory,total, B0SAMPL7, current-stock , current ,260, units 
+inventory,total, B0SAMPL8, current-stock , current ,470, units 
+inventory,total, B0SAMPL9, current-stock , current ,410, units 
+inventory,total, B0SAMP10, current-stock , current ,480, units 
+inventory,total, B0SAMPL1, sku , current ,260, text 
+inventory,total, B0SAMPL2, sku , current ,9070, text 
+inventory,total, B0SAMPL3, sku , current ,1160, text 
+inventory,total, B0SAMPL4, sku , current ,210, text 
+inventory,total, B0SAMPL5, sku , current ,1940, text 
+inventory,total, B0SAMPL6, sku , current ,530, text 
+inventory,total, B0SAMPL7, sku , current ,950, text 
+inventory,total, B0SAMPL8, sku , current ,400, text 
+inventory,total, B0SAMPL9, sku , current ,380, text 
+inventory,total, B0SAMP10, sku , current ,310, text 
+inventory,total, B0SAMPL1, product-title , current ,, text 
+inventory,total, B0SAMPL2, product-title , current ,6710, text 
+inventory,total, B0SAMPL3, product-title , current ,370, text 
+inventory,total, B0SAMPL4, product-title , current ,, text 
+inventory,total, B0SAMPL5, product-title , current ,, text 
+inventory,total, B0SAMPL6, product-title , current ,280, text 
+inventory,total, B0SAMPL7, product-title , current ,, text 
+inventory,total, B0SAMPL8, product-title , current ,, text 
+inventory,total, B0SAMPL9, product-title , current ,, text 
+inventory,total, B0SAMPL1, 90-day-forecast , current ,, units 
+inventory,total, B0SAMPL2, 90-day-forecast , current ,, units 
+inventory,total, B0SAMPL3, 90-day-forecast , current ,15000, units 
+inventory,total, B0SAMPL4, 90-day-forecast , current ,54000, units 
+inventory,total, B0SAMPL5, 90-day-forecast , current ,64800, units 
+inventory,total, B0SAMPL6, 90-day-forecast , current ,83080, units 
+inventory,total, B0SAMPL7, 90-day-forecast , current ,99700, units 
+inventory,total, B0SAMPL8, 90-day-forecast , current ,79760, units 
+inventory,total, B0SAMPL9, 90-day-forecast , current ,87730, units 
+inventory,total, B0SAMP10, 90-day-forecast , current ,122830, units 
+inventory,total, B0SAMPL1, days-of-supply , current ,171960, days 
+inventory,total, B0SAMPL2, days-of-supply , current ,6180, days 
+inventory,total, B0SAMPL3, days-of-supply , current ,6180, days 
+inventory,total, B0SAMPL4, days-of-supply , current ,480, days 
+inventory,total, B0SAMPL5, days-of-supply , current ,1560, days 
+inventory,total, B0SAMPL6, days-of-supply , current ,920, days 
+inventory,total, B0SAMPL7, days-of-supply , current ,1680, days 
+inventory,total, B0SAMPL8, days-of-supply , current ,90, days 
+inventory,total, B0SAMPL9, days-of-supply , current ,260, days 
+inventory,total, B0SAMP10, days-of-supply , current ,190, days 
+inventory,total, B0SAMPL1, sales-last-month , current ,880, days 
+inventory,total, B0SAMPL2, sales-last-month , current ,0, days 
+inventory,total, B0SAMPL3, sales-last-month , current ,5130, days 
+inventory,total, B0SAMPL4, sales-last-month , current ,880, days 
+inventory,total, B0SAMPL5, sales-last-month , current ,600, days 
+inventory,total, B0SAMPL6, sales-last-month , current ,0, days 
+inventory,total, B0SAMPL7, sales-last-month , current ,600, days 
+inventory,total, B0SAMPL8, sales-last-month , current ,0, days 
+inventory,total, B0SAMPL9, sales-last-month , current ,50420, days 
+inventory,total, B0SAMP10, sales-last-month , current ,50420, days 
+inventory,total, B0SAMPL1, requested-quantity , current ,3740, units 
+inventory,total, B0SAMPL2, requested-quantity , current ,13080, units 
+inventory,total, B0SAMPL3, requested-quantity , current ,4940, units 
+inventory,total, B0SAMPL4, requested-quantity , current ,20500, units 
+inventory,total, B0SAMPL5, requested-quantity , current ,340, units 
+inventory,total, B0SAMPL6, requested-quantity , current ,2180, units 
+inventory,total, B0SAMPL7, requested-quantity , current ,1510, units 
+inventory,total, B0SAMPL8, requested-quantity , current ,6030, units 
+inventory,total, B0SAMPL9, requested-quantity , current ,0, units 
+inventory,total, B0SAMP10, requested-quantity , current ,38940, units 
+sales,total,forecast,revenue,2025-03,4270,dollars
+sales,total,forecast,revenue,2025-04,7430,dollars
+sales,total,forecast,revenue,2025-05,1220,dollars
+sales,total,forecast,revenue,2025-06,4050,dollars
+sales,total,forecast,revenue,2025-07,500,dollars
+sales,total,forecast,revenue,2025-08,45560,dollars
+sales,total,forecast,revenue,2025-09,46020,dollars
+sales,total,forecast,revenue,2025-10,3250,dollars
+sales,total,forecast,revenue,2025-11,12430,dollars
+sales,total,forecast,revenue,2025-12,4860,dollars
+sales,total,actual,revenue,2025-03,17370,dollars
+sales,total,gross-sales,revenue,2025-03,370,dollars
+sales,total,units-sold,units,2025-03,2050,units
+sales,total,COGS,cost,2025-03,2280,dollars
+sales,total,referall-and-account,cost,2025-03,4970,dollars
+sales,total,fulfillment,cost,2025-03,460,dollars
+sales,total,storage,cost,2025-03,36210,dollars
+sales,total,inbound-shipping,cost,2025-03,3650,dollars
+sales,total,amma-partners,cost,2025-03,6360,dollars
+sales,total,advertising-spend,cost,2025-03,1090,dollars
+sales,total,promotional-spend,cost,2025-03,3000,dollars
+sales,total,GCOS,calculated,2025-03,240,percentage
+sales,total,profit-margin,calculated,2025-03,51540,percentage
+marketing,roots,segment,sales,2025-03,64800,dollars
+marketing,roots,segment,advertising-spend,2025-03,51860,dollars
+marketing,roots,segment,GCOS,2025-03,3580,percentage
+marketing,roots,segment,share-of-voice,2025-03,12870,percentage
+marketing,roots,segment,segment-share,2025-03,3600,percentage
+marketing,reggae,segment,sales,2025-03,18890,dollars
+marketing,reggae,segment,advertising-spend,2025-03,370,dollars
+marketing,reggae,segment,GCOS,2025-03,2190,percentage
+marketing,reggae,segment,share-of-voice,2025-03,2580,percentage
+marketing,reggae,segment,segment-share,2025-03,5890,percentage
+marketing,rock,segment,sales,2025-03,320,dollars
+marketing,rock,segment,advertising-spend,2025-03,43600,dollars
+marketing,rock,segment,GCOS,2025-03,5050,percentage
+marketing,rock,segment,share-of-voice,2025-03,6300,percentage
+marketing,rock,segment,segment-share,2025-03,930,percentage
+sales,total,actual,revenue,2025-04,1650,dollars
+sales,total,gross-sales,revenue,2025-04,520,dollars
+sales,total,units-sold,units,2025-04,374,units
+sales,total,COGS,cost,2025-04,1308,dollars
+sales,total,referall-and-account,cost,2025-04,494,dollars
+sales,total,fulfillment,cost,2025-04,2050,dollars
+sales,total,storage,cost,2025-04,34,dollars
+sales,total,inbound-shipping,cost,2025-04,218,dollars
+sales,total,amma-partners,cost,2025-04,151,dollars
+sales,total,advertising-spend,cost,2025-04,603,dollars
+sales,total,promotional-spend,cost,2025-04,0,dollars
+sales,total,GCOS,calculated,2025-04,11.97,percentage
+sales,total,profit-margin,calculated,2025-04,3.65,percentage
+marketing,roots,segment,sales,2025-04,3894,dollars
+marketing,roots,segment,advertising-spend,2025-04,427,dollars
+marketing,roots,segment,GCOS,2025-04,11.06,percentage
+marketing,roots,segment,share-of-voice,2025-04,7.4,percentage
+marketing,roots,segment,segment-share,2025-04,11.7,percentage
+marketing,reggae,segment,sales,2025-04,743,dollars
+marketing,reggae,segment,advertising-spend,2025-04,122,dollars
+marketing,reggae,segment,GCOS,2025-04,16.38,percentage
+marketing,reggae,segment,share-of-voice,2025-04,2.4,percentage
+marketing,reggae,segment,segment-share,2025-04,5.26,percentage
+marketing,rock,segment,sales,2025-04,405,dollars
+marketing,rock,segment,advertising-spend,2025-04,50,dollars
+marketing,rock,segment,GCOS,2025-04,12.61,percentage
+marketing,rock,segment,share-of-voice,2025-04,0.48,percentage
+marketing,rock,segment,segment-share,2025-04,0.92,percentage
+sales,total,actual,revenue,2025-05,4556,dollars
+sales,total,gross-sales,revenue,2025-05,4602,dollars
+sales,total,units-sold,units,2025-05,325,units
+sales,total,COGS,cost,2025-05,1243,dollars
+sales,total,referall-and-account,cost,2025-05,486,dollars
+sales,total,fulfillment,cost,2025-05,1737,dollars
+sales,total,storage,cost,2025-05,37,dollars
+sales,total,inbound-shipping,cost,2025-05,205,dollars
+sales,total,amma-partners,cost,2025-05,228,dollars
+sales,total,advertising-spend,cost,2025-05,497,dollars
+sales,total,promotional-spend,cost,2025-05,46,dollars
+sales,total,GCOS,calculated,2025-05,11.79,percentage
+sales,total,profit-margin,calculated,2025-05,2.67,percentage
+marketing,roots,segment,sales,2025-05,3621,dollars
+marketing,roots,segment,advertising-spend,2025-05,365,dollars
+marketing,roots,segment,GCOS,2025-05,11.15,percentage
+marketing,roots,segment,share-of-voice,2025-05,6.39,percentage
+marketing,roots,segment,segment-share,2025-05,9.83,percentage
+marketing,reggae,segment,sales,2025-05,636,dollars
+marketing,reggae,segment,advertising-spend,2025-05,109,dollars
+marketing,reggae,segment,GCOS,2025-05,9.33,percentage
+marketing,reggae,segment,share-of-voice,2025-05,2.51,percentage
+marketing,reggae,segment,segment-share,2025-05,8.43,percentage
+marketing,rock,segment,sales,2025-05,300,dollars
+marketing,rock,segment,advertising-spend,2025-05,24,dollars
+marketing,rock,segment,GCOS,2025-05,8.01,percentage
+marketing,rock,segment,share-of-voice,2025-05,0.54,percentage
+marketing,rock,segment,segment-share,2025-05,1.23,percentage
+sales,total,actual,revenue,2025-06 MTD,5154,dollars
+sales,total,forecast,revenue,2025-06 MTD,6480,dollars
+sales,total,gross-sales,revenue,2025-06 MTD,5186,dollars
+sales,total,units-sold,units,2025-06 MTD,358,units
+sales,total,COGS,cost,2025-06 MTD,1287,dollars
+sales,total,referall-and-account,cost,2025-06 MTD,360,dollars
+sales,total,fulfillment,cost,2025-06 MTD,1889,dollars
+sales,total,storage,cost,2025-06 MTD,37,dollars
+sales,total,inbound-shipping,cost,2025-06 MTD,219,dollars
+sales,total,amma-partners,cost,2025-06 MTD,258,dollars
+sales,total,advertising-spend,cost,2025-06 MTD,589,dollars
+sales,total,promotional-spend,cost,2025-06 MTD,32,dollars
+sales,total,GCOS,calculated,2025-06 MTD,11.97,percentage
+sales,total,profit-margin,calculated,2025-06 MTD,9.95,percentage
+marketing,roots,segment,sales,2025-06 MTD,4360,dollars
+marketing,roots,segment,advertising-spend,2025-06 MTD,505,dollars
+marketing,roots,segment,GCOS,2025-06 MTD,11.19,percentage
+marketing,roots,segment,share-of-voice,2025-06 MTD,8.76,percentage
+marketing,roots,segment,segment-share,2025-06 MTD,8.3,percentage
+marketing,reggae,segment,sales,2025-06 MTD,630,dollars
+marketing,reggae,segment,advertising-spend,2025-06 MTD,93,dollars
+marketing,reggae,segment,GCOS,2025-06 MTD,13.51,percentage
+marketing,reggae,segment,share-of-voice,2025-06 MTD,4.06,percentage
+marketing,reggae,segment,segment-share,2025-06 MTD,14.63,percentage
+marketing,rock,segment,sales,2025-06 MTD,165,dollars
+marketing,rock,segment,advertising-spend,2025-06 MTD,52,dollars
+marketing,rock,segment,GCOS,2025-06 MTD,27.09,percentage
+marketing,rock,segment,share-of-voice,2025-06 MTD,0.39,percentage
+marketing,rock,segment,segment-share,2025-06 MTD,0.51,percentage
