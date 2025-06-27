@@ -8,7 +8,6 @@ inventory,total, B0SAMPL6, current-stock , current ,1245, units
 inventory,total, B0SAMPL7, current-stock , current ,390, units 
 inventory,total, B0SAMPL8, current-stock , current ,705, units 
 inventory,total, B0SAMPL9, current-stock , current ,615, units 
-inventory,total, B0SAMP10, current-stock , current ,720, units 
 inventory,total, B0SAMPL1, sku , current ,Sampl1, text 
 inventory,total, B0SAMPL2, sku , current ,Sampl2, text 
 inventory,total, B0SAMPL3, sku , current ,Sampl3, text 
@@ -18,7 +17,6 @@ inventory,total, B0SAMPL6, sku , current ,Sampl6, text
 inventory,total, B0SAMPL7, sku , current ,Sampl7, text 
 inventory,total, B0SAMPL8, sku , current ,Sampl8, text 
 inventory,total, B0SAMPL9, sku , current ,Sampl9, text 
-inventory,total, B0SAMP10, sku , current ,Sampl10, text 
 inventory,total, B0SAMPL1, product-title , current ,Redemption Song, text 
 inventory,total, B0SAMPL2, product-title , current ,Three Little Birds, text 
 inventory,total, B0SAMPL3, product-title , current ,One Love, text 
@@ -37,7 +35,6 @@ inventory,total, B0SAMPL6, 90-day-forecast , current ,795, units
 inventory,total, B0SAMPL7, 90-day-forecast , current ,1425, units 
 inventory,total, B0SAMPL8, 90-day-forecast , current ,600, units 
 inventory,total, B0SAMPL9, 90-day-forecast , current ,570, units 
-inventory,total, B0SAMP10, 90-day-forecast , current ,465, units 
 inventory,total, B0SAMPL1, days-of-supply , current ,66, days 
 inventory,total, B0SAMPL2, days-of-supply , current ,28, days 
 inventory,total, B0SAMPL3, days-of-supply , current ,59, days 
@@ -47,7 +44,6 @@ inventory,total, B0SAMPL6, days-of-supply , current ,42, days
 inventory,total, B0SAMPL7, days-of-supply , current ,80, days 
 inventory,total, B0SAMPL8, days-of-supply , current ,62, days 
 inventory,total, B0SAMPL9, days-of-supply , current ,130, days 
-inventory,total, B0SAMP10, days-of-supply , current ,112, days 
 inventory,total, B0SAMPL1, sales-last-month , current ,3, days 
 inventory,total, B0SAMPL2, sales-last-month , current ,188, days 
 inventory,total, B0SAMPL3, sales-last-month , current ,20, days 
@@ -57,7 +53,6 @@ inventory,total, B0SAMPL6, sales-last-month , current ,4, days
 inventory,total, B0SAMPL7, sales-last-month , current ,22, days 
 inventory,total, B0SAMPL8, sales-last-month , current ,13, days 
 inventory,total, B0SAMPL9, sales-last-month , current ,4, days 
-inventory,total, B0SAMP10, sales-last-month , current ,5, days 
 inventory,total, B0SAMPL1, requested-quantity , current ,0, units 
 inventory,total, B0SAMPL2, requested-quantity , current ,10065, units 
 inventory,total, B0SAMPL3, requested-quantity , current ,555, units 
@@ -67,7 +62,6 @@ inventory,total, B0SAMPL6, requested-quantity , current ,420, units
 inventory,total, B0SAMPL7, requested-quantity , current ,0, units 
 inventory,total, B0SAMPL8, requested-quantity , current ,0, units 
 inventory,total, B0SAMPL9, requested-quantity , current ,0, units 
-inventory,total, B0SAMP10, requested-quantity , current ,0, units 
 sales,total,forecast,revenue,2025-03,0,dollars
 sales,total,forecast,revenue,2025-04,22500,dollars
 sales,total,forecast,revenue,2025-05,81000,dollars
