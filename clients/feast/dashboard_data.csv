@@ -91,7 +91,7 @@ inventory,total, B0743JDQMW , days-of-supply , current ,266, days
 inventory,total, B09N2WS6P8 , days-of-supply , current ,365, days 
 inventory,total, B08QRHYV43 , sales-last-month , current ,3, days 
 inventory,total, B07MFR2F5F , sales-last-month , current ,274, days 
-inventory,total, B07ZS7F85G , sales-last-month , current ,13, days 
+inventory,total, B07ZS7F85G , sales-last-month , current ,19, days 
 inventory,total, B08N1K437Y , sales-last-month , current ,3, days 
 inventory,total, B07YYTJX3H , sales-last-month , current ,50, days 
 inventory,total, B07YYT6CT9 , sales-last-month , current ,2, days 
@@ -147,7 +147,7 @@ sales,total,amma-partners,cost,2025-03,19,dollars
 sales,total,advertising-spend,cost,2025-03,88,dollars
 sales,total,promotional-spend,cost,2025-03,0,dollars
 sales,total,GCOS,calculated,2025-03,14.29,percentage
-sales,total,profit-margin,calculated,2025-03,9.70,percentage
+sales,total,profit-margin,calculated,2025-03,9.72,percentage
 marketing,bacon-jam,segment,sales,2025-03,513,dollars
 marketing,bacon-jam,segment,advertising-spend,2025-03,88,dollars
 marketing,bacon-jam,segment,GCOS,2025-03,17.21,percentage
@@ -170,12 +170,12 @@ sales,total,COGS,cost,2025-04,1308,dollars
 sales,total,referall-and-account,cost,2025-04,494,dollars
 sales,total,fulfillment,cost,2025-04,2050,dollars
 sales,total,storage,cost,2025-04,34,dollars
-sales,total,inbound-shipping,cost,2025-04,218,dollars
+sales,total,inbound-shipping,cost,2025-04,217,dollars
 sales,total,amma-partners,cost,2025-04,151,dollars
 sales,total,advertising-spend,cost,2025-04,603,dollars
 sales,total,promotional-spend,cost,2025-04,0,dollars
 sales,total,GCOS,calculated,2025-04,11.97,percentage
-sales,total,profit-margin,calculated,2025-04,3.65,percentage
+sales,total,profit-margin,calculated,2025-04,3.66,percentage
 marketing,bacon-jam,segment,sales,2025-04,3894,dollars
 marketing,bacon-jam,segment,advertising-spend,2025-04,427,dollars
 marketing,bacon-jam,segment,GCOS,2025-04,11.06,percentage
@@ -203,7 +203,7 @@ sales,total,amma-partners,cost,2025-05,228,dollars
 sales,total,advertising-spend,cost,2025-05,497,dollars
 sales,total,promotional-spend,cost,2025-05,46,dollars
 sales,total,GCOS,calculated,2025-05,11.79,percentage
-sales,total,profit-margin,calculated,2025-05,2.67,percentage
+sales,total,profit-margin,calculated,2025-05,2.66,percentage
 marketing,bacon-jam,segment,sales,2025-05,3621,dollars
 marketing,bacon-jam,segment,advertising-spend,2025-05,365,dollars
 marketing,bacon-jam,segment,GCOS,2025-05,11.15,percentage
@@ -219,32 +219,60 @@ marketing,seasoning,segment,advertising-spend,2025-05,24,dollars
 marketing,seasoning,segment,GCOS,2025-05,8.01,percentage
 marketing,seasoning,segment,share-of-voice,2025-05,0.54,percentage
 marketing,seasoning,segment,segment-share,2025-05,1.23,percentage
-sales,total,actual,revenue,2025-06 MTD,6213,dollars
-sales,total,forecast,revenue,2025-06 MTD,6480,dollars
-sales,total,gross-sales,revenue,2025-06 MTD,6245,dollars
-sales,total,units-sold,units,2025-06 MTD,432,units
-sales,total,COGS,cost,2025-06 MTD,1550,dollars
-sales,total,referall-and-account,cost,2025-06 MTD,432,dollars
-sales,total,fulfillment,cost,2025-06 MTD,2275,dollars
-sales,total,storage,cost,2025-06 MTD,44,dollars
-sales,total,inbound-shipping,cost,2025-06 MTD,263,dollars
-sales,total,amma-partners,cost,2025-06 MTD,311,dollars
-sales,total,advertising-spend,cost,2025-06 MTD,739,dollars
-sales,total,promotional-spend,cost,2025-06 MTD,32,dollars
-sales,total,GCOS,calculated,2025-06 MTD,12.36,percentage
-sales,total,profit-margin,calculated,2025-06 MTD,9.58,percentage
-marketing,bacon-jam,segment,sales,2025-06 MTD,5241,dollars
-marketing,bacon-jam,segment,advertising-spend,2025-06 MTD,622,dollars
-marketing,bacon-jam,segment,GCOS,2025-06 MTD,11.46,percentage
-marketing,bacon-jam,segment,share-of-voice,2025-06 MTD,8.76,percentage
-marketing,bacon-jam,segment,segment-share,2025-06 MTD,8.01,percentage
-marketing,tomato-jam,segment,sales,2025-06 MTD,747,dollars
-marketing,tomato-jam,segment,advertising-spend,2025-06 MTD,113,dollars
-marketing,tomato-jam,segment,GCOS,2025-06 MTD,14.31,percentage
-marketing,tomato-jam,segment,share-of-voice,2025-06 MTD,4.06,percentage
-marketing,tomato-jam,segment,segment-share,2025-06 MTD,13.59,percentage
-marketing,seasoning,segment,sales,2025-06 MTD,225,dollars
-marketing,seasoning,segment,advertising-spend,2025-06 MTD,66,dollars
-marketing,seasoning,segment,GCOS,2025-06 MTD,26.94,percentage
-marketing,seasoning,segment,share-of-voice,2025-06 MTD,0.39,percentage
-marketing,seasoning,segment,segment-share,2025-06 MTD,0.46,percentage
+sales,total,actual,revenue,2025-06,6394,dollars
+sales,total,gross-sales,revenue,2025-06,6427,dollars
+sales,total,units-sold,units,2025-06,446,units
+sales,total,COGS,cost,2025-06,1592,dollars
+sales,total,referall-and-account,cost,2025-06,461,dollars
+sales,total,fulfillment,cost,2025-06,2348,dollars
+sales,total,storage,cost,2025-06,50,dollars
+sales,total,inbound-shipping,cost,2025-06,271,dollars
+sales,total,amma-partners,cost,2025-06,320,dollars
+sales,total,advertising-spend,cost,2025-06,769,dollars
+sales,total,promotional-spend,cost,2025-06,32,dollars
+sales,total,GCOS,calculated,2025-06,12.47,percentage
+sales,total,profit-margin,calculated,2025-06,9.08,percentage
+marketing,bacon-jam,segment,sales,2025-06,5427,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-06,601,dollars
+marketing,bacon-jam,segment,GCOS,2025-06,11.63,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-06,8.53,percentage
+marketing,bacon-jam,segment,segment-share,2025-06,8.50,percentage
+marketing,tomato-jam,segment,sales,2025-06,774,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-06,107,dollars
+marketing,tomato-jam,segment,GCOS,2025-06,14.03,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-06,4.51,percentage
+marketing,tomato-jam,segment,segment-share,2025-06,14.15,percentage
+marketing,seasoning,segment,sales,2025-06,225,dollars
+marketing,seasoning,segment,advertising-spend,2025-06,62,dollars
+marketing,seasoning,segment,GCOS,2025-06,27.43,percentage
+marketing,seasoning,segment,share-of-voice,2025-06,0.62,percentage
+marketing,seasoning,segment,segment-share,2025-06,0.58,percentage
+sales,total,actual,revenue,2025-07 MTD,279,dollars
+sales,total,forecast,revenue,2025-07 MTD,8308,dollars
+sales,total,gross-sales,revenue,2025-07 MTD,285,dollars
+sales,total,units-sold,units,2025-07 MTD,18,units
+sales,total,COGS,cost,2025-07 MTD,72,dollars
+sales,total,referall-and-account,cost,2025-07 MTD,40,dollars
+sales,total,fulfillment,cost,2025-07 MTD,67,dollars
+sales,total,storage,cost,2025-07 MTD,2,dollars
+sales,total,inbound-shipping,cost,2025-07 MTD,12,dollars
+sales,total,amma-partners,cost,2025-07 MTD,14,dollars
+sales,total,advertising-spend,cost,2025-07 MTD,65,dollars
+sales,total,promotional-spend,cost,2025-07 MTD,6,dollars
+sales,total,GCOS,calculated,2025-07 MTD,25.03,percentage
+sales,total,profit-margin,calculated,2025-07 MTD,2.46,percentage
+marketing,bacon-jam,segment,sales,2025-07 MTD,240,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-07 MTD,49,dollars
+marketing,bacon-jam,segment,GCOS,2025-07 MTD,20.72,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage
+marketing,bacon-jam,segment,segment-share,2025-07 MTD,0.00,percentage
+marketing,tomato-jam,segment,sales,2025-07 MTD,39,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-07 MTD,16,dollars
+marketing,tomato-jam,segment,GCOS,2025-07 MTD,34.31,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage
+marketing,tomato-jam,segment,segment-share,2025-07 MTD,0.00,percentage
+marketing,seasoning,segment,sales,2025-07 MTD,0,dollars
+marketing,seasoning,segment,advertising-spend,2025-07 MTD,9,dollars
+marketing,seasoning,segment,GCOS,2025-07 MTD,0.00,percentage
+marketing,seasoning,segment,share-of-voice,2025-07 MTD,0.00,percentage
+marketing,seasoning,segment,segment-share,2025-07 MTD,0.00,percentage
