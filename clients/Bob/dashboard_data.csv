@@ -156,32 +156,61 @@ marketing,rock,segment,advertising-spend,2025-05,360,dollars
 marketing,rock,segment,GCOS,2025-05,8.01,percentage
 marketing,rock,segment,share-of-voice,2025-05,0.54,percentage
 marketing,rock,segment,segment-share,2025-05,1.23,percentage
-sales,total,actual,revenue,2025-06 MTD,77310,dollars
-sales,total,forecast,revenue,2025-06 MTD,97200,dollars
-sales,total,gross-sales,revenue,2025-06 MTD,77790,dollars
-sales,total,units-sold,units,2025-06 MTD,358,units
-sales,total,COGS,cost,2025-06 MTD,19305,dollars
-sales,total,referall-and-account,cost,2025-06 MTD,5400,dollars
-sales,total,fulfillment,cost,2025-06 MTD,28335,dollars
-sales,total,storage,cost,2025-06 MTD,555,dollars
-sales,total,inbound-shipping,cost,2025-06 MTD,3285,dollars
-sales,total,amma-partners,cost,2025-06 MTD,3870,dollars
-sales,total,advertising-spend,cost,2025-06 MTD,8835,dollars
-sales,total,promotional-spend,cost,2025-06 MTD,480,dollars
-sales,total,GCOS,calculated,2025-06 MTD,11.97,percentage
-sales,total,profit-margin,calculated,2025-06 MTD,9.95,percentage
-marketing,roots,segment,sales,2025-06 MTD,65400,dollars
-marketing,roots,segment,advertising-spend,2025-06 MTD,7575,dollars
-marketing,roots,segment,GCOS,2025-06 MTD,11.19,percentage
-marketing,roots,segment,share-of-voice,2025-06 MTD,8.76,percentage
-marketing,roots,segment,segment-share,2025-06 MTD,8.3,percentage
-marketing,reggae,segment,sales,2025-06 MTD,9450,dollars
-marketing,reggae,segment,advertising-spend,2025-06 MTD,1395,dollars
-marketing,reggae,segment,GCOS,2025-06 MTD,13.51,percentage
-marketing,reggae,segment,share-of-voice,2025-06 MTD,4.06,percentage
-marketing,reggae,segment,segment-share,2025-06 MTD,14.63,percentage
-marketing,rock,segment,sales,2025-06 MTD,2475,dollars
-marketing,rock,segment,advertising-spend,2025-06 MTD,780,dollars
-marketing,rock,segment,GCOS,2025-06 MTD,27.09,percentage
-marketing,rock,segment,share-of-voice,2025-06 MTD,0.39,percentage
-marketing,rock,segment,segment-share,2025-06 MTD,0.51,percentage
+sales,total,actual,revenue,2025-06,77310,dollars
+sales,total,forecast,revenue,2025-06,97200,dollars
+sales,total,gross-sales,revenue,2025-06,77790,dollars
+sales,total,units-sold,units,2025-06,358,units
+sales,total,COGS,cost,2025-06,19305,dollars
+sales,total,referall-and-account,cost,2025-06,5400,dollars
+sales,total,fulfillment,cost,2025-06,28335,dollars
+sales,total,storage,cost,2025-06,555,dollars
+sales,total,inbound-shipping,cost,2025-06,3285,dollars
+sales,total,amma-partners,cost,2025-06,3870,dollars
+sales,total,advertising-spend,cost,2025-06,8835,dollars
+sales,total,promotional-spend,cost,2025-06,480,dollars
+sales,total,GCOS,calculated,2025-06,11.97,percentage
+sales,total,profit-margin,calculated,2025-06,9.95,percentage
+marketing,roots,segment,sales,2025-06,65400,dollars
+marketing,roots,segment,advertising-spend,2025-06,7575,dollars
+marketing,roots,segment,GCOS,2025-06,11.19,percentage
+marketing,roots,segment,share-of-voice,2025-06,8.76,percentage
+marketing,roots,segment,segment-share,2025-06,8.3,percentage
+marketing,reggae,segment,sales,2025-06,9450,dollars
+marketing,reggae,segment,advertising-spend,2025-06,1395,dollars
+marketing,reggae,segment,GCOS,2025-06,13.51,percentage
+marketing,reggae,segment,share-of-voice,2025-06,4.06,percentage
+marketing,reggae,segment,segment-share,2025-06,14.63,percentage
+marketing,rock,segment,sales,2025-06,2475,dollars
+marketing,rock,segment,advertising-spend,2025-06,780,dollars
+marketing,rock,segment,GCOS,2025-06,27.09,percentage
+marketing,rock,segment,share-of-voice,2025-06,0.39,percentage
+marketing,rock,segment,segment-share,2025-06,0.51,percentage
+sales,total,actual,revenue,2025-07 MTD,46386,dollars
+sales,total,forecast,revenue,2025-07 MTD,58320,dollars
+sales,total,gross-sales,revenue,2025-07 MTD,46674,dollars
+sales,total,units-sold,units,2025-07 MTD,215,units
+sales,total,COGS,cost,2025-07 MTD,11583,dollars
+sales,total,referall-and-account,cost,2025-07 MTD,3240,dollars
+sales,total,fulfillment,cost,2025-07 MTD,17001,dollars
+sales,total,storage,cost,2025-07 MTD,333,dollars
+sales,total,inbound-shipping,cost,2025-07 MTD,1971,dollars
+sales,total,amma-partners,cost,2025-07 MTD,2322,dollars
+sales,total,advertising-spend,cost,2025-07 MTD,5301,dollars
+sales,total,promotional-spend,cost,2025-07 MTD,288,dollars
+sales,total,GCOS,calculated,2025-07 MTD,11.97,percentage
+sales,total,profit-margin,calculated,2025-07 MTD,9.95,percentage
+marketing,roots,segment,sales,2025-07 MTD,39240,dollars
+marketing,roots,segment,advertising-spend,2025-07 MTD,4545,dollars
+marketing,roots,segment,GCOS,2025-07 MTD,11.83,percentage
+marketing,roots,segment,share-of-voice,2025-07 MTD,9.84,percentage
+marketing,roots,segment,segment-share,2025-07 MTD,12.8,percentage
+marketing,reggae,segment,sales,2025-07 MTD,5670,dollars
+marketing,reggae,segment,advertising-spend,2025-07 MTD,837,dollars
+marketing,reggae,segment,GCOS,2025-07 MTD,13.51,percentage
+marketing,reggae,segment,share-of-voice,2025-07 MTD,8.03,percentage
+marketing,reggae,segment,segment-share,2025-07 MTD,18.89,percentage
+marketing,rock,segment,sales,2025-07 MTD,1485,dollars
+marketing,rock,segment,advertising-spend,2025-07 MTD,468,dollars
+marketing,rock,segment,GCOS,2025-07 MTD,27.09,percentage
+marketing,rock,segment,share-of-voice,2025-07 MTD,4.05,percentage
+marketing,rock,segment,segment-share,2025-07 MTD,7.32,percentage
