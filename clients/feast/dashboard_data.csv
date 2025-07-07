@@ -1,278 +1,278 @@
-dataType,category,identifier,metric,period,value,unit,,,,,,,
-inventory,total, B08QRHYV43 , current-stock , current ,21, units ,,,,,,,
-inventory,total, B07MFR2F5F , current-stock , current ,210, units ,,,,,,,
-inventory,total, B07ZS7F85G , current-stock , current ,116, units ,,,,,,,
-inventory,total, B08N1K437Y , current-stock , current ,21, units ,,,,,,,
-inventory,total, B07YYTJX3H , current-stock , current ,171, units ,,,,,,,
-inventory,total, B07YYT6CT9 , current-stock , current ,25, units ,,,,,,,
-inventory,total, B08MBDVH8C , current-stock , current ,72, units ,,,,,,,
-inventory,total, B081VV9NWR , current-stock , current ,26, units ,,,,,,,
-inventory,total, B0743HKFBM , current-stock , current ,45, units ,,,,,,,
-inventory,total, B08MBC3445 , current-stock , current ,34, units ,,,,,,,
-inventory,total, B08MFSVDVF , current-stock , current ,40, units ,,,,,,,
-inventory,total, B08MBC9F35 , current-stock , current ,40, units ,,,,,,,
-inventory,total, B08N1JYC2K , current-stock , current ,10, units ,,,,,,,
-inventory,total, B08LP31K4W , current-stock , current ,10, units ,,,,,,,
-inventory,total, B08LQ14SLL , current-stock , current ,11, units ,,,,,,,
-inventory,total, B0743JDCCP , current-stock , current ,52, units ,,,,,,,
-inventory,total, B0743JDQMW , current-stock , current ,63, units ,,,,,,,
-inventory,total, B09N2WS6P8 , current-stock , current ,6, units ,,,,,,,
-inventory,total, B08QRHYV43 , sku , current ,KIT1-FBA-1, text ,,,,,,,
-inventory,total, B07MFR2F5F , sku , current ,CLS9-FBA-1, text ,,,,,,,
-inventory,total, B07ZS7F85G , sku , current ,CLS9-FBA-3 / FBM-3, text ,,,,,,,
-inventory,total, B08N1K437Y , sku , current ,MBJ9xC3-FBA_, text ,,,,,,,
-inventory,total, B07YYTJX3H , sku , current ,STJ9-FBA-1, text ,,,,,,,
-inventory,total, B07YYT6CT9 , sku , current ,STJ9-FBA-3, text ,,,,,,,
-inventory,total, B08MBDVH8C , sku , current ,MBJ9xC1-FBA, text ,,,,,,,
-inventory,total, B081VV9NWR , sku , current ,GPS5xC1-FBA, text ,,,,,,,
-inventory,total, B0743HKFBM , sku , current ,CLS/PEP/SWC9-FBA-3, text ,,,,,,,
-inventory,total, B08MBC3445 , sku , current ,BSB5xC1-FBA, text ,,,,,,,
-inventory,total, B08MFSVDVF , sku , current ,HHJ9xC1-FBA, text ,,,,,,,
-inventory,total, B08MBC9F35 , sku , current ,MBS2xC1-FBA, text ,,,,,,,
-inventory,total, B08N1JYC2K , sku , current ,HHJ9xC3-FBA_, text ,,,,,,,
-inventory,total, B08LP31K4W , sku , current ,SWC9-FBA-3, text ,,,,,,,
-inventory,total, B08LQ14SLL , sku , current ,PEP9-FBA-3, text ,,,,,,,
-inventory,total, B0743JDCCP , sku , current ,PEP9-FBA-1, text ,,,,,,,
-inventory,total, B0743JDQMW , sku , current ,SWC9-FBA-1, text ,,,,,,,
-inventory,total, B09N2WS6P8 , sku , current ,Seasoning 3 Pk, text ,,,,,,,
-inventory,total, B08QRHYV43 , product-title , current ,Bacon Jam Emergency Kit, text ,,,,,,,
-inventory,total, B07MFR2F5F , product-title , current ,Classic Bacon Jam - 1 x 9 oz, text ,,,,,,,
-inventory,total, B07ZS7F85G , product-title , current ,Classic Bacon Jam - 3 x 9 oz, text ,,,,,,,
-inventory,total, B08N1K437Y , product-title , current ,Maple Bacon Jam - 3 x 9 oz, text ,,,,,,,
-inventory,total, B07YYTJX3H , product-title , current ,Spiced Tomato Jam -1 x 9 oz, text ,,,,,,,
-inventory,total, B07YYT6CT9 , product-title , current ,Spiced Tomato Jam - 3 x 9 oz, text ,,,,,,,
-inventory,total, B08MBDVH8C , product-title , current ,Maple Bacon Jam - 1 x 9 oz, text ,,,,,,,
-inventory,total, B081VV9NWR , product-title , current ,Himalayan Ghost Salt 1 x 5.2 Oz, text ,,,,,,,
-inventory,total, B0743HKFBM , product-title , current ,Bacon Jam Variety Pack - 3 x 9 oz, text ,,,,,,,
-inventory,total, B08MBC3445 , product-title , current ,Smoked Bacon Salt 1 x 4.9 oz, text ,,,,,,,
-inventory,total, B08MFSVDVF , product-title , current ,Honey Habanero Bacon Jam - 1 x 9 oz, text ,,,,,,,
-inventory,total, B08MBC9F35 , product-title , current ,Smoked Bacon Maple Sugar 1 x 2.3 oz, text ,,,,,,,
-inventory,total, B08N1JYC2K , product-title , current ,Honey Habanero Bacon Jam - 3 x 9 oz, text ,,,,,,,
-inventory,total, B08LP31K4W , product-title , current ,Sweet Chili Bacon Jam - 3 x 9 oz, text ,,,,,,,
-inventory,total, B08LQ14SLL , product-title , current ,Black Peppercorn Bacon Jam - 3 x 9 oz, text ,,,,,,,
-inventory,total, B0743JDCCP , product-title , current ,Black Peppercorn Bacon Jam - 1 x 9 oz, text ,,,,,,,
-inventory,total, B0743JDQMW , product-title , current ,Sweet Chili Bacon Jam - 1 x 9 oz, text ,,,,,,,
-inventory,total, B09N2WS6P8 , product-title , current ,Seasoning Variety Pack, text ,,,,,,,
-inventory,total, B08QRHYV43 , 90-day-forecast , current ,24, units ,,,,,,,
-inventory,total, B07MFR2F5F , 90-day-forecast , current ,965, units ,,,,,,,
-inventory,total, B07ZS7F85G , 90-day-forecast , current ,113, units ,,,,,,,
-inventory,total, B08N1K437Y , 90-day-forecast , current ,20, units ,,,,,,,
-inventory,total, B07YYTJX3H , 90-day-forecast , current ,205, units ,,,,,,,
-inventory,total, B07YYT6CT9 , 90-day-forecast , current ,49, units ,,,,,,,
-inventory,total, B08MBDVH8C , 90-day-forecast , current ,101, units ,,,,,,,
-inventory,total, B081VV9NWR , 90-day-forecast , current ,43, units ,,,,,,,
-inventory,total, B0743HKFBM , 90-day-forecast , current ,36, units ,,,,,,,
-inventory,total, B08MBC3445 , 90-day-forecast , current ,33, units ,,,,,,,
-inventory,total, B08MFSVDVF , 90-day-forecast , current ,39, units ,,,,,,,
-inventory,total, B08MBC9F35 , 90-day-forecast , current ,30, units ,,,,,,,
-inventory,total, B08N1JYC2K , 90-day-forecast , current ,5, units ,,,,,,,
-inventory,total, B08LP31K4W , 90-day-forecast , current ,5, units ,,,,,,,
-inventory,total, B08LQ14SLL , 90-day-forecast , current ,5, units ,,,,,,,
-inventory,total, B0743JDCCP , 90-day-forecast , current ,24, units ,,,,,,,
-inventory,total, B0743JDQMW , 90-day-forecast , current ,22, units ,,,,,,,
-inventory,total, B09N2WS6P8 , 90-day-forecast , current ,0, units ,,,,,,,
-inventory,total, B08QRHYV43 , days-of-supply , current ,59, days ,,,,,,,
-inventory,total, B07MFR2F5F , days-of-supply , current ,23, days ,,,,,,,
-inventory,total, B07ZS7F85G , days-of-supply , current ,93, days ,,,,,,,
-inventory,total, B08N1K437Y , days-of-supply , current ,102, days ,,,,,,,
-inventory,total, B07YYTJX3H , days-of-supply , current ,76, days ,,,,,,,
-inventory,total, B07YYT6CT9 , days-of-supply , current ,39, days ,,,,,,,
-inventory,total, B08MBDVH8C , days-of-supply , current ,67, days ,,,,,,,
-inventory,total, B081VV9NWR , days-of-supply , current ,58, days ,,,,,,,
-inventory,total, B0743HKFBM , days-of-supply , current ,128, days ,,,,,,,
-inventory,total, B08MBC3445 , days-of-supply , current ,92, days ,,,,,,,
-inventory,total, B08MFSVDVF , days-of-supply , current ,92, days ,,,,,,,
-inventory,total, B08MBC9F35 , days-of-supply , current ,115, days ,,,,,,,
-inventory,total, B08N1JYC2K , days-of-supply , current ,206, days ,,,,,,,
-inventory,total, B08LP31K4W , days-of-supply , current ,206, days ,,,,,,,
-inventory,total, B08LQ14SLL , days-of-supply , current ,226, days ,,,,,,,
-inventory,total, B0743JDCCP , days-of-supply , current ,157, days ,,,,,,,
-inventory,total, B0743JDQMW , days-of-supply , current ,266, days ,,,,,,,
-inventory,total, B09N2WS6P8 , days-of-supply , current ,365, days ,,,,,,,
-inventory,total, B08QRHYV43 , sales-last-month , current ,3, days ,,,,,,,
-inventory,total, B07MFR2F5F , sales-last-month , current ,274, days ,,,,,,,
-inventory,total, B07ZS7F85G , sales-last-month , current ,19, days ,,,,,,,
-inventory,total, B08N1K437Y , sales-last-month , current ,3, days ,,,,,,,
-inventory,total, B07YYTJX3H , sales-last-month , current ,50, days ,,,,,,,
-inventory,total, B07YYT6CT9 , sales-last-month , current ,2, days ,,,,,,,
-inventory,total, B08MBDVH8C , sales-last-month , current ,25, days ,,,,,,,
-inventory,total, B081VV9NWR , sales-last-month , current ,5, days ,,,,,,,
-inventory,total, B0743HKFBM , sales-last-month , current ,9, days ,,,,,,,
-inventory,total, B08MBC3445 , sales-last-month , current ,8, days ,,,,,,,
-inventory,total, B08MFSVDVF , sales-last-month , current ,14, days ,,,,,,,
-inventory,total, B08MBC9F35 , sales-last-month , current ,5, days ,,,,,,,
-inventory,total, B08N1JYC2K , sales-last-month , current ,1, days ,,,,,,,
-inventory,total, B08LP31K4W , sales-last-month , current ,1, days ,,,,,,,
-inventory,total, B08LQ14SLL , sales-last-month , current ,0, days ,,,,,,,
-inventory,total, B0743JDCCP , sales-last-month , current ,9, days ,,,,,,,
-inventory,total, B0743JDQMW , sales-last-month , current ,3, days ,,,,,,,
-inventory,total, B09N2WS6P8 , sales-last-month , current ,0, days ,,,,,,,
-inventory,total, B08QRHYV43 , requested-quantity , current ,3, units ,,,,,,,
-inventory,total, B07MFR2F5F , requested-quantity , current ,755, units ,,,,,,,
-inventory,total, B07ZS7F85G , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B08N1K437Y , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B07YYTJX3H , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B07YYT6CT9 , requested-quantity , current ,24, units ,,,,,,,
-inventory,total, B08MBDVH8C , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B081VV9NWR , requested-quantity , current ,17, units ,,,,,,,
-inventory,total, B0743HKFBM , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B08MBC3445 , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B08MFSVDVF , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B08MBC9F35 , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B08N1JYC2K , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B08LP31K4W , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B08LQ14SLL , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B0743JDCCP , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B0743JDQMW , requested-quantity , current ,, units ,,,,,,,
-inventory,total, B09N2WS6P8 , requested-quantity , current ,, units ,,,,,,,
-sales,total,forecast,revenue,2025-03,0,dollars,,,,,,,
-sales,total,forecast,revenue,2025-04,1500,dollars,,,,,,,
-sales,total,forecast,revenue,2025-05,5400,dollars,,,,,,,
-sales,total,forecast,revenue,2025-06,6480,dollars,,,,,,,
-sales,total,forecast,revenue,2025-07,8308,dollars,,,,,,,
-sales,total,forecast,revenue,2025-08,9970,dollars,,,,,,,
-sales,total,forecast,revenue,2025-09,7976,dollars,,,,,,,
-sales,total,forecast,revenue,2025-10,8773,dollars,,,,,,,
-sales,total,forecast,revenue,2025-11,12283,dollars,,,,,,,
-sales,total,forecast,revenue,2025-12,17196,dollars,,,,,,,
-sales,total,actual,revenue,2025-03,618,dollars,,,,,,,
-sales,total,gross-sales,revenue,2025-03,618,dollars,,,,,,,
-sales,total,units-sold,units,2025-03,48,units,,,,,,,
-sales,total,COGS,cost,2025-03,156,dollars,,,,,,,
-sales,total,referall-and-account,cost,2025-03,92,dollars,,,,,,,
-sales,total,fulfillment,cost,2025-03,168,dollars,,,,,,,
-sales,total,storage,cost,2025-03,9,dollars,,,,,,,
-sales,total,inbound-shipping,cost,2025-03,26,dollars,,,,,,,
-sales,total,amma-partners,cost,2025-03,19,dollars,,,,,,,
-sales,total,advertising-spend,cost,2025-03,88,dollars,,,,,,,
-sales,total,promotional-spend,cost,2025-03,0,dollars,,,,,,,
-sales,total,GCOS,calculated,2025-03,14.29,percentage,,,,,,,
-sales,total,profit-margin,calculated,2025-03,9.72,percentage,,,,,,,
-marketing,bacon-jam,segment,sales,2025-03,513,dollars,,,,,,,
-marketing,bacon-jam,segment,advertising-spend,2025-03,88,dollars,,,,,,,
-marketing,bacon-jam,segment,GCOS,2025-03,17.21,percentage,,,,,,,
-marketing,bacon-jam,segment,share-of-voice,2025-03,4.84,percentage,,,,,,,
-marketing,bacon-jam,segment,segment-share,2025-03,3.44,percentage,,,,,,,
-marketing,tomato-jam,segment,sales,2025-03,60,dollars,,,,,,,
-marketing,tomato-jam,segment,advertising-spend,2025-03,0,dollars,,,,,,,
-marketing,tomato-jam,segment,GCOS,2025-03,0.00,percentage,,,,,,,
-marketing,tomato-jam,segment,share-of-voice,2025-03,1.28,percentage,,,,,,,
-marketing,tomato-jam,segment,segment-share,2025-03,0.00,percentage,,,,,,,
-marketing,seasoning,segment,sales,2025-03,60,dollars,,,,,,,
-marketing,seasoning,segment,advertising-spend,2025-03,0,dollars,,,,,,,
-marketing,seasoning,segment,GCOS,2025-03,0.00,percentage,,,,,,,
-marketing,seasoning,segment,share-of-voice,2025-03,2.88,percentage,,,,,,,
-marketing,seasoning,segment,segment-share,2025-03,0.00,percentage,,,,,,,
-sales,total,actual,revenue,2025-04,5042,dollars,,,,,,,
-sales,total,gross-sales,revenue,2025-04,5042,dollars,,,,,,,
-sales,total,units-sold,units,2025-04,374,units,,,,,,,
-sales,total,COGS,cost,2025-04,1308,dollars,,,,,,,
-sales,total,referall-and-account,cost,2025-04,494,dollars,,,,,,,
-sales,total,fulfillment,cost,2025-04,2050,dollars,,,,,,,
-sales,total,storage,cost,2025-04,34,dollars,,,,,,,
-sales,total,inbound-shipping,cost,2025-04,217,dollars,,,,,,,
-sales,total,amma-partners,cost,2025-04,151,dollars,,,,,,,
-sales,total,advertising-spend,cost,2025-04,603,dollars,,,,,,,
-sales,total,promotional-spend,cost,2025-04,0,dollars,,,,,,,
-sales,total,GCOS,calculated,2025-04,11.97,percentage,,,,,,,
-sales,total,profit-margin,calculated,2025-04,3.66,percentage,,,,,,,
-marketing,bacon-jam,segment,sales,2025-04,3894,dollars,,,,,,,
-marketing,bacon-jam,segment,advertising-spend,2025-04,427,dollars,,,,,,,
-marketing,bacon-jam,segment,GCOS,2025-04,11.06,percentage,,,,,,,
-marketing,bacon-jam,segment,share-of-voice,2025-04,7.45,percentage,,,,,,,
-marketing,bacon-jam,segment,segment-share,2025-04,11.81,percentage,,,,,,,
-marketing,tomato-jam,segment,sales,2025-04,743,dollars,,,,,,,
-marketing,tomato-jam,segment,advertising-spend,2025-04,122,dollars,,,,,,,
-marketing,tomato-jam,segment,GCOS,2025-04,16.38,percentage,,,,,,,
-marketing,tomato-jam,segment,share-of-voice,2025-04,2.40,percentage,,,,,,,
-marketing,tomato-jam,segment,segment-share,2025-04,5.26,percentage,,,,,,,
-marketing,seasoning,segment,sales,2025-04,405,dollars,,,,,,,
-marketing,seasoning,segment,advertising-spend,2025-04,50,dollars,,,,,,,
-marketing,seasoning,segment,GCOS,2025-04,12.61,percentage,,,,,,,
-marketing,seasoning,segment,share-of-voice,2025-04,0.48,percentage,,,,,,,
-marketing,seasoning,segment,segment-share,2025-04,0.92,percentage,,,,,,,
-sales,total,actual,revenue,2025-05,4556,dollars,,,,,,,
-sales,total,gross-sales,revenue,2025-05,4602,dollars,,,,,,,
-sales,total,units-sold,units,2025-05,325,units,,,,,,,
-sales,total,COGS,cost,2025-05,1243,dollars,,,,,,,
-sales,total,referall-and-account,cost,2025-05,486,dollars,,,,,,,
-sales,total,fulfillment,cost,2025-05,1737,dollars,,,,,,,
-sales,total,storage,cost,2025-05,37,dollars,,,,,,,
-sales,total,inbound-shipping,cost,2025-05,205,dollars,,,,,,,
-sales,total,amma-partners,cost,2025-05,228,dollars,,,,,,,
-sales,total,advertising-spend,cost,2025-05,497,dollars,,,,,,,
-sales,total,promotional-spend,cost,2025-05,46,dollars,,,,,,,
-sales,total,GCOS,calculated,2025-05,11.79,percentage,,,,,,,
-sales,total,profit-margin,calculated,2025-05,2.66,percentage,,,,,,,
-marketing,bacon-jam,segment,sales,2025-05,3621,dollars,,,,,,,
-marketing,bacon-jam,segment,advertising-spend,2025-05,365,dollars,,,,,,,
-marketing,bacon-jam,segment,GCOS,2025-05,11.15,percentage,,,,,,,
-marketing,bacon-jam,segment,share-of-voice,2025-05,6.41,percentage,,,,,,,
-marketing,bacon-jam,segment,segment-share,2025-05,9.85,percentage,,,,,,,
-marketing,tomato-jam,segment,sales,2025-05,636,dollars,,,,,,,
-marketing,tomato-jam,segment,advertising-spend,2025-05,109,dollars,,,,,,,
-marketing,tomato-jam,segment,GCOS,2025-05,9.33,percentage,,,,,,,
-marketing,tomato-jam,segment,share-of-voice,2025-05,2.51,percentage,,,,,,,
-marketing,tomato-jam,segment,segment-share,2025-05,8.43,percentage,,,,,,,
-marketing,seasoning,segment,sales,2025-05,300,dollars,,,,,,,
-marketing,seasoning,segment,advertising-spend,2025-05,24,dollars,,,,,,,
-marketing,seasoning,segment,GCOS,2025-05,8.01,percentage,,,,,,,
-marketing,seasoning,segment,share-of-voice,2025-05,0.54,percentage,,,,,,,
-marketing,seasoning,segment,segment-share,2025-05,1.23,percentage,,,,,,,
-sales,total,actual,revenue,2025-06,6394,dollars,,,,,,,
-sales,total,gross-sales,revenue,2025-06,6427,dollars,,,,,,,
-sales,total,units-sold,units,2025-06,446,units,,,,,,,
-sales,total,COGS,cost,2025-06,1592,dollars,,,,,,,
-sales,total,referall-and-account,cost,2025-06,461,dollars,,,,,,,
-sales,total,fulfillment,cost,2025-06,2348,dollars,,,,,,,
-sales,total,storage,cost,2025-06,50,dollars,,,,,,,
-sales,total,inbound-shipping,cost,2025-06,271,dollars,,,,,,,
-sales,total,amma-partners,cost,2025-06,320,dollars,,,,,,,
-sales,total,advertising-spend,cost,2025-06,769,dollars,,,,,,,
-sales,total,promotional-spend,cost,2025-06,32,dollars,,,,,,,
-sales,total,GCOS,calculated,2025-06,12.47,percentage,,,,,,,
-sales,total,profit-margin,calculated,2025-06,9.08,percentage,,,,,,,
-marketing,bacon-jam,segment,sales,2025-06,5427,dollars,,,,,,,
-marketing,bacon-jam,segment,advertising-spend,2025-06,601,dollars,,,,,,,
-marketing,bacon-jam,segment,GCOS,2025-06,11.63,percentage,,,,,,,
-marketing,bacon-jam,segment,share-of-voice,2025-06,8.53,percentage,,,,,,,
-marketing,bacon-jam,segment,segment-share,2025-06,8.50,percentage,,,,,,,
-marketing,tomato-jam,segment,sales,2025-06,774,dollars,,,,,,,
-marketing,tomato-jam,segment,advertising-spend,2025-06,107,dollars,,,,,,,
-marketing,tomato-jam,segment,GCOS,2025-06,14.03,percentage,,,,,,,
-marketing,tomato-jam,segment,share-of-voice,2025-06,4.51,percentage,,,,,,,
-marketing,tomato-jam,segment,segment-share,2025-06,14.15,percentage,,,,,,,
-marketing,seasoning,segment,sales,2025-06,225,dollars,,,,,,,
-marketing,seasoning,segment,advertising-spend,2025-06,62,dollars,,,,,,,
-marketing,seasoning,segment,GCOS,2025-06,27.43,percentage,,,,,,,
-marketing,seasoning,segment,share-of-voice,2025-06,0.62,percentage,,,,,,,
-marketing,seasoning,segment,segment-share,2025-06,0.58,percentage,,,,,,,
-sales,total,actual,revenue,2025-07 MTD,657,dollars,,,,,,,
-sales,total,forecast,revenue,2025-07 MTD,8308,dollars,,,,,,,
-sales,total,gross-sales,revenue,2025-07 MTD,669,dollars,,,,,,,
-sales,total,units-sold,units,2025-07 MTD,43,units,,,,,,,
-sales,total,COGS,cost,2025-07 MTD,172,dollars,,,,,,,
-sales,total,referall-and-account,cost,2025-07 MTD,70,dollars,,,,,,,
-sales,total,fulfillment,cost,2025-07 MTD,223,dollars,,,,,,,
-sales,total,storage,cost,2025-07 MTD,5,dollars,,,,,,,
-sales,total,inbound-shipping,cost,2025-07 MTD,28,dollars,,,,,,,
-sales,total,amma-partners,cost,2025-07 MTD,33,dollars,,,,,,,
-sales,total,advertising-spend,cost,2025-07 MTD,99,dollars,,,,,,,
-sales,total,promotional-spend,cost,2025-07 MTD,12,dollars,,,,,,,
-sales,total,GCOS,calculated,2025-07 MTD,16.56,percentage,,,,,,,
-sales,total,profit-margin,calculated,2025-07 MTD,3.97,percentage,,,,,,,
-marketing,bacon-jam,segment,sales,2025-07 MTD,534,dollars,,,,,,,
-marketing,bacon-jam,segment,advertising-spend,2025-07 MTD,49,dollars,,,,,,,
-marketing,bacon-jam,segment,GCOS,2025-07 MTD,9.18,percentage,,,,,,,
-marketing,bacon-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage,,,,,,,
-marketing,bacon-jam,segment,segment-share,2025-07 MTD,0.00,percentage,,,,,,,
-marketing,tomato-jam,segment,sales,2025-07 MTD,93,dollars,,,,,,,
-marketing,tomato-jam,segment,advertising-spend,2025-07 MTD,16,dollars,,,,,,,
-marketing,tomato-jam,segment,GCOS,2025-07 MTD,9.82,percentage,,,,,,,
-marketing,tomato-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage,,,,,,,
-marketing,tomato-jam,segment,segment-share,2025-07 MTD,0.00,percentage,,,,,,,
-marketing,seasoning,segment,sales,2025-07 MTD,30,dollars,,,,,,,
-marketing,seasoning,segment,advertising-spend,2025-07 MTD,9,dollars,,,,,,,
-marketing,seasoning,segment,GCOS,2025-07 MTD,4.00,percentage,,,,,,,
-marketing,seasoning,segment,share-of-voice,2025-07 MTD,0.00,percentage,,,,,,,
-marketing,seasoning,segment,segment-share,2025-07 MTD,0.00,percentage,,,,,,,
+dataType,category,identifier,metric,period,value,unit
+inventory,total, B08QRHYV43 , current-stock , current ,21, units 
+inventory,total, B07MFR2F5F , current-stock , current ,210, units 
+inventory,total, B07ZS7F85G , current-stock , current ,116, units 
+inventory,total, B08N1K437Y , current-stock , current ,21, units 
+inventory,total, B07YYTJX3H , current-stock , current ,171, units 
+inventory,total, B07YYT6CT9 , current-stock , current ,25, units 
+inventory,total, B08MBDVH8C , current-stock , current ,72, units 
+inventory,total, B081VV9NWR , current-stock , current ,26, units 
+inventory,total, B0743HKFBM , current-stock , current ,45, units 
+inventory,total, B08MBC3445 , current-stock , current ,34, units 
+inventory,total, B08MFSVDVF , current-stock , current ,40, units 
+inventory,total, B08MBC9F35 , current-stock , current ,40, units 
+inventory,total, B08N1JYC2K , current-stock , current ,10, units 
+inventory,total, B08LP31K4W , current-stock , current ,10, units 
+inventory,total, B08LQ14SLL , current-stock , current ,11, units 
+inventory,total, B0743JDCCP , current-stock , current ,52, units 
+inventory,total, B0743JDQMW , current-stock , current ,63, units 
+inventory,total, B09N2WS6P8 , current-stock , current ,6, units 
+inventory,total, B08QRHYV43 , sku , current ,KIT1-FBA-1, text 
+inventory,total, B07MFR2F5F , sku , current ,CLS9-FBA-1, text 
+inventory,total, B07ZS7F85G , sku , current ,CLS9-FBA-3 / FBM-3, text 
+inventory,total, B08N1K437Y , sku , current ,MBJ9xC3-FBA_, text 
+inventory,total, B07YYTJX3H , sku , current ,STJ9-FBA-1, text 
+inventory,total, B07YYT6CT9 , sku , current ,STJ9-FBA-3, text 
+inventory,total, B08MBDVH8C , sku , current ,MBJ9xC1-FBA, text 
+inventory,total, B081VV9NWR , sku , current ,GPS5xC1-FBA, text 
+inventory,total, B0743HKFBM , sku , current ,CLS/PEP/SWC9-FBA-3, text 
+inventory,total, B08MBC3445 , sku , current ,BSB5xC1-FBA, text 
+inventory,total, B08MFSVDVF , sku , current ,HHJ9xC1-FBA, text 
+inventory,total, B08MBC9F35 , sku , current ,MBS2xC1-FBA, text 
+inventory,total, B08N1JYC2K , sku , current ,HHJ9xC3-FBA_, text 
+inventory,total, B08LP31K4W , sku , current ,SWC9-FBA-3, text 
+inventory,total, B08LQ14SLL , sku , current ,PEP9-FBA-3, text 
+inventory,total, B0743JDCCP , sku , current ,PEP9-FBA-1, text 
+inventory,total, B0743JDQMW , sku , current ,SWC9-FBA-1, text 
+inventory,total, B09N2WS6P8 , sku , current ,Seasoning 3 Pk, text 
+inventory,total, B08QRHYV43 , product-title , current ,Bacon Jam Emergency Kit, text 
+inventory,total, B07MFR2F5F , product-title , current ,Classic Bacon Jam - 1 x 9 oz, text 
+inventory,total, B07ZS7F85G , product-title , current ,Classic Bacon Jam - 3 x 9 oz, text 
+inventory,total, B08N1K437Y , product-title , current ,Maple Bacon Jam - 3 x 9 oz, text 
+inventory,total, B07YYTJX3H , product-title , current ,Spiced Tomato Jam -1 x 9 oz, text 
+inventory,total, B07YYT6CT9 , product-title , current ,Spiced Tomato Jam - 3 x 9 oz, text 
+inventory,total, B08MBDVH8C , product-title , current ,Maple Bacon Jam - 1 x 9 oz, text 
+inventory,total, B081VV9NWR , product-title , current ,Himalayan Ghost Salt 1 x 5.2 Oz, text 
+inventory,total, B0743HKFBM , product-title , current ,Bacon Jam Variety Pack - 3 x 9 oz, text 
+inventory,total, B08MBC3445 , product-title , current ,Smoked Bacon Salt 1 x 4.9 oz, text 
+inventory,total, B08MFSVDVF , product-title , current ,Honey Habanero Bacon Jam - 1 x 9 oz, text 
+inventory,total, B08MBC9F35 , product-title , current ,Smoked Bacon Maple Sugar 1 x 2.3 oz, text 
+inventory,total, B08N1JYC2K , product-title , current ,Honey Habanero Bacon Jam - 3 x 9 oz, text 
+inventory,total, B08LP31K4W , product-title , current ,Sweet Chili Bacon Jam - 3 x 9 oz, text 
+inventory,total, B08LQ14SLL , product-title , current ,Black Peppercorn Bacon Jam - 3 x 9 oz, text 
+inventory,total, B0743JDCCP , product-title , current ,Black Peppercorn Bacon Jam - 1 x 9 oz, text 
+inventory,total, B0743JDQMW , product-title , current ,Sweet Chili Bacon Jam - 1 x 9 oz, text 
+inventory,total, B09N2WS6P8 , product-title , current ,Seasoning Variety Pack, text 
+inventory,total, B08QRHYV43 , 90-day-forecast , current ,24, units 
+inventory,total, B07MFR2F5F , 90-day-forecast , current ,965, units 
+inventory,total, B07ZS7F85G , 90-day-forecast , current ,113, units 
+inventory,total, B08N1K437Y , 90-day-forecast , current ,20, units 
+inventory,total, B07YYTJX3H , 90-day-forecast , current ,205, units 
+inventory,total, B07YYT6CT9 , 90-day-forecast , current ,49, units 
+inventory,total, B08MBDVH8C , 90-day-forecast , current ,101, units 
+inventory,total, B081VV9NWR , 90-day-forecast , current ,43, units 
+inventory,total, B0743HKFBM , 90-day-forecast , current ,36, units 
+inventory,total, B08MBC3445 , 90-day-forecast , current ,33, units 
+inventory,total, B08MFSVDVF , 90-day-forecast , current ,39, units 
+inventory,total, B08MBC9F35 , 90-day-forecast , current ,30, units 
+inventory,total, B08N1JYC2K , 90-day-forecast , current ,5, units 
+inventory,total, B08LP31K4W , 90-day-forecast , current ,5, units 
+inventory,total, B08LQ14SLL , 90-day-forecast , current ,5, units 
+inventory,total, B0743JDCCP , 90-day-forecast , current ,24, units 
+inventory,total, B0743JDQMW , 90-day-forecast , current ,22, units 
+inventory,total, B09N2WS6P8 , 90-day-forecast , current ,0, units 
+inventory,total, B08QRHYV43 , days-of-supply , current ,59, days 
+inventory,total, B07MFR2F5F , days-of-supply , current ,23, days 
+inventory,total, B07ZS7F85G , days-of-supply , current ,93, days 
+inventory,total, B08N1K437Y , days-of-supply , current ,102, days 
+inventory,total, B07YYTJX3H , days-of-supply , current ,76, days 
+inventory,total, B07YYT6CT9 , days-of-supply , current ,39, days 
+inventory,total, B08MBDVH8C , days-of-supply , current ,67, days 
+inventory,total, B081VV9NWR , days-of-supply , current ,58, days 
+inventory,total, B0743HKFBM , days-of-supply , current ,128, days 
+inventory,total, B08MBC3445 , days-of-supply , current ,92, days 
+inventory,total, B08MFSVDVF , days-of-supply , current ,92, days 
+inventory,total, B08MBC9F35 , days-of-supply , current ,115, days 
+inventory,total, B08N1JYC2K , days-of-supply , current ,206, days 
+inventory,total, B08LP31K4W , days-of-supply , current ,206, days 
+inventory,total, B08LQ14SLL , days-of-supply , current ,226, days 
+inventory,total, B0743JDCCP , days-of-supply , current ,157, days 
+inventory,total, B0743JDQMW , days-of-supply , current ,266, days 
+inventory,total, B09N2WS6P8 , days-of-supply , current ,365, days 
+inventory,total, B08QRHYV43 , sales-last-month , current ,3, days 
+inventory,total, B07MFR2F5F , sales-last-month , current ,274, days 
+inventory,total, B07ZS7F85G , sales-last-month , current ,19, days 
+inventory,total, B08N1K437Y , sales-last-month , current ,3, days 
+inventory,total, B07YYTJX3H , sales-last-month , current ,50, days 
+inventory,total, B07YYT6CT9 , sales-last-month , current ,2, days 
+inventory,total, B08MBDVH8C , sales-last-month , current ,25, days 
+inventory,total, B081VV9NWR , sales-last-month , current ,5, days 
+inventory,total, B0743HKFBM , sales-last-month , current ,9, days 
+inventory,total, B08MBC3445 , sales-last-month , current ,8, days 
+inventory,total, B08MFSVDVF , sales-last-month , current ,14, days 
+inventory,total, B08MBC9F35 , sales-last-month , current ,5, days 
+inventory,total, B08N1JYC2K , sales-last-month , current ,1, days 
+inventory,total, B08LP31K4W , sales-last-month , current ,1, days 
+inventory,total, B08LQ14SLL , sales-last-month , current ,0, days 
+inventory,total, B0743JDCCP , sales-last-month , current ,9, days 
+inventory,total, B0743JDQMW , sales-last-month , current ,3, days 
+inventory,total, B09N2WS6P8 , sales-last-month , current ,0, days 
+inventory,total, B08QRHYV43 , requested-quantity , current ,3, units 
+inventory,total, B07MFR2F5F , requested-quantity , current ,755, units 
+inventory,total, B07ZS7F85G , requested-quantity , current ,, units 
+inventory,total, B08N1K437Y , requested-quantity , current ,, units 
+inventory,total, B07YYTJX3H , requested-quantity , current ,, units 
+inventory,total, B07YYT6CT9 , requested-quantity , current ,24, units 
+inventory,total, B08MBDVH8C , requested-quantity , current ,, units 
+inventory,total, B081VV9NWR , requested-quantity , current ,17, units 
+inventory,total, B0743HKFBM , requested-quantity , current ,, units 
+inventory,total, B08MBC3445 , requested-quantity , current ,, units 
+inventory,total, B08MFSVDVF , requested-quantity , current ,, units 
+inventory,total, B08MBC9F35 , requested-quantity , current ,, units 
+inventory,total, B08N1JYC2K , requested-quantity , current ,, units 
+inventory,total, B08LP31K4W , requested-quantity , current ,, units 
+inventory,total, B08LQ14SLL , requested-quantity , current ,, units 
+inventory,total, B0743JDCCP , requested-quantity , current ,, units 
+inventory,total, B0743JDQMW , requested-quantity , current ,, units 
+inventory,total, B09N2WS6P8 , requested-quantity , current ,, units 
+sales,total,forecast,revenue,2025-03,0,dollars
+sales,total,forecast,revenue,2025-04,1500,dollars
+sales,total,forecast,revenue,2025-05,5400,dollars
+sales,total,forecast,revenue,2025-06,6480,dollars
+sales,total,forecast,revenue,2025-07,8308,dollars
+sales,total,forecast,revenue,2025-08,9970,dollars
+sales,total,forecast,revenue,2025-09,7976,dollars
+sales,total,forecast,revenue,2025-10,8773,dollars
+sales,total,forecast,revenue,2025-11,12283,dollars
+sales,total,forecast,revenue,2025-12,17196,dollars
+sales,total,actual,revenue,2025-03,618,dollars
+sales,total,gross-sales,revenue,2025-03,618,dollars
+sales,total,units-sold,units,2025-03,48,units
+sales,total,COGS,cost,2025-03,156,dollars
+sales,total,referall-and-account,cost,2025-03,92,dollars
+sales,total,fulfillment,cost,2025-03,168,dollars
+sales,total,storage,cost,2025-03,9,dollars
+sales,total,inbound-shipping,cost,2025-03,26,dollars
+sales,total,amma-partners,cost,2025-03,19,dollars
+sales,total,advertising-spend,cost,2025-03,88,dollars
+sales,total,promotional-spend,cost,2025-03,0,dollars
+sales,total,GCOS,calculated,2025-03,14.29,percentage
+sales,total,profit-margin,calculated,2025-03,9.72,percentage
+marketing,bacon-jam,segment,sales,2025-03,513,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-03,88,dollars
+marketing,bacon-jam,segment,GCOS,2025-03,17.21,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-03,4.84,percentage
+marketing,bacon-jam,segment,segment-share,2025-03,3.44,percentage
+marketing,tomato-jam,segment,sales,2025-03,60,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-03,0,dollars
+marketing,tomato-jam,segment,GCOS,2025-03,0.00,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-03,1.28,percentage
+marketing,tomato-jam,segment,segment-share,2025-03,0.00,percentage
+marketing,seasoning,segment,sales,2025-03,60,dollars
+marketing,seasoning,segment,advertising-spend,2025-03,0,dollars
+marketing,seasoning,segment,GCOS,2025-03,0.00,percentage
+marketing,seasoning,segment,share-of-voice,2025-03,2.88,percentage
+marketing,seasoning,segment,segment-share,2025-03,0.00,percentage
+sales,total,actual,revenue,2025-04,5042,dollars
+sales,total,gross-sales,revenue,2025-04,5042,dollars
+sales,total,units-sold,units,2025-04,374,units
+sales,total,COGS,cost,2025-04,1308,dollars
+sales,total,referall-and-account,cost,2025-04,494,dollars
+sales,total,fulfillment,cost,2025-04,2050,dollars
+sales,total,storage,cost,2025-04,34,dollars
+sales,total,inbound-shipping,cost,2025-04,217,dollars
+sales,total,amma-partners,cost,2025-04,151,dollars
+sales,total,advertising-spend,cost,2025-04,603,dollars
+sales,total,promotional-spend,cost,2025-04,0,dollars
+sales,total,GCOS,calculated,2025-04,11.97,percentage
+sales,total,profit-margin,calculated,2025-04,3.66,percentage
+marketing,bacon-jam,segment,sales,2025-04,3894,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-04,427,dollars
+marketing,bacon-jam,segment,GCOS,2025-04,11.06,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-04,7.45,percentage
+marketing,bacon-jam,segment,segment-share,2025-04,11.81,percentage
+marketing,tomato-jam,segment,sales,2025-04,743,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-04,122,dollars
+marketing,tomato-jam,segment,GCOS,2025-04,16.38,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-04,2.40,percentage
+marketing,tomato-jam,segment,segment-share,2025-04,5.26,percentage
+marketing,seasoning,segment,sales,2025-04,405,dollars
+marketing,seasoning,segment,advertising-spend,2025-04,50,dollars
+marketing,seasoning,segment,GCOS,2025-04,12.61,percentage
+marketing,seasoning,segment,share-of-voice,2025-04,0.48,percentage
+marketing,seasoning,segment,segment-share,2025-04,0.92,percentage
+sales,total,actual,revenue,2025-05,4556,dollars
+sales,total,gross-sales,revenue,2025-05,4602,dollars
+sales,total,units-sold,units,2025-05,325,units
+sales,total,COGS,cost,2025-05,1243,dollars
+sales,total,referall-and-account,cost,2025-05,486,dollars
+sales,total,fulfillment,cost,2025-05,1737,dollars
+sales,total,storage,cost,2025-05,37,dollars
+sales,total,inbound-shipping,cost,2025-05,205,dollars
+sales,total,amma-partners,cost,2025-05,228,dollars
+sales,total,advertising-spend,cost,2025-05,497,dollars
+sales,total,promotional-spend,cost,2025-05,46,dollars
+sales,total,GCOS,calculated,2025-05,11.79,percentage
+sales,total,profit-margin,calculated,2025-05,2.66,percentage
+marketing,bacon-jam,segment,sales,2025-05,3621,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-05,365,dollars
+marketing,bacon-jam,segment,GCOS,2025-05,11.15,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-05,6.41,percentage
+marketing,bacon-jam,segment,segment-share,2025-05,9.85,percentage
+marketing,tomato-jam,segment,sales,2025-05,636,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-05,109,dollars
+marketing,tomato-jam,segment,GCOS,2025-05,9.33,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-05,2.51,percentage
+marketing,tomato-jam,segment,segment-share,2025-05,8.43,percentage
+marketing,seasoning,segment,sales,2025-05,300,dollars
+marketing,seasoning,segment,advertising-spend,2025-05,24,dollars
+marketing,seasoning,segment,GCOS,2025-05,8.01,percentage
+marketing,seasoning,segment,share-of-voice,2025-05,0.54,percentage
+marketing,seasoning,segment,segment-share,2025-05,1.23,percentage
+sales,total,actual,revenue,2025-06,6394,dollars
+sales,total,gross-sales,revenue,2025-06,6427,dollars
+sales,total,units-sold,units,2025-06,446,units
+sales,total,COGS,cost,2025-06,1592,dollars
+sales,total,referall-and-account,cost,2025-06,461,dollars
+sales,total,fulfillment,cost,2025-06,2348,dollars
+sales,total,storage,cost,2025-06,50,dollars
+sales,total,inbound-shipping,cost,2025-06,271,dollars
+sales,total,amma-partners,cost,2025-06,320,dollars
+sales,total,advertising-spend,cost,2025-06,769,dollars
+sales,total,promotional-spend,cost,2025-06,32,dollars
+sales,total,GCOS,calculated,2025-06,12.47,percentage
+sales,total,profit-margin,calculated,2025-06,9.08,percentage
+marketing,bacon-jam,segment,sales,2025-06,5427,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-06,601,dollars
+marketing,bacon-jam,segment,GCOS,2025-06,11.63,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-06,8.53,percentage
+marketing,bacon-jam,segment,segment-share,2025-06,8.50,percentage
+marketing,tomato-jam,segment,sales,2025-06,774,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-06,107,dollars
+marketing,tomato-jam,segment,GCOS,2025-06,14.03,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-06,4.51,percentage
+marketing,tomato-jam,segment,segment-share,2025-06,14.15,percentage
+marketing,seasoning,segment,sales,2025-06,225,dollars
+marketing,seasoning,segment,advertising-spend,2025-06,62,dollars
+marketing,seasoning,segment,GCOS,2025-06,27.43,percentage
+marketing,seasoning,segment,share-of-voice,2025-06,0.62,percentage
+marketing,seasoning,segment,segment-share,2025-06,0.58,percentage
+sales,total,actual,revenue,2025-07 MTD,900,dollars
+sales,total,forecast,revenue,2025-07 MTD,8308,dollars
+sales,total,gross-sales,revenue,2025-07 MTD,916,dollars
+sales,total,units-sold,units,2025-07 MTD,60,units
+sales,total,COGS,cost,2025-07 MTD,238,dollars
+sales,total,referall-and-account,cost,2025-07 MTD,92,dollars
+sales,total,fulfillment,cost,2025-07 MTD,313,dollars
+sales,total,storage,cost,2025-07 MTD,7,dollars
+sales,total,inbound-shipping,cost,2025-07 MTD,38,dollars
+sales,total,amma-partners,cost,2025-07 MTD,45,dollars
+sales,total,advertising-spend,cost,2025-07 MTD,158,dollars
+sales,total,promotional-spend,cost,2025-07 MTD,17,dollars
+sales,total,GCOS,calculated,2025-07 MTD,19.03,percentage
+sales,total,profit-margin,calculated,2025-07 MTD,0.94,percentage
+marketing,bacon-jam,segment,sales,2025-07 MTD,706,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-07 MTD,49,dollars
+marketing,bacon-jam,segment,GCOS,2025-07 MTD,18.05,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage
+marketing,bacon-jam,segment,segment-share,2025-07 MTD,0.00,percentage
+marketing,tomato-jam,segment,sales,2025-07 MTD,119,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-07 MTD,16,dollars
+marketing,tomato-jam,segment,GCOS,2025-07 MTD,20.77,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage
+marketing,tomato-jam,segment,segment-share,2025-07 MTD,0.00,percentage
+marketing,seasoning,segment,sales,2025-07 MTD,75,dollars
+marketing,seasoning,segment,advertising-spend,2025-07 MTD,9,dollars
+marketing,seasoning,segment,GCOS,2025-07 MTD,16.61,percentage
+marketing,seasoning,segment,share-of-voice,2025-07 MTD,0.00,percentage
+marketing,seasoning,segment,segment-share,2025-07 MTD,0.00,percentage
