@@ -17,15 +17,15 @@ inventory,total, B0SAMPL6, sku , current ,Sampl6, text
 inventory,total, B0SAMPL7, sku , current ,Sampl7, text 
 inventory,total, B0SAMPL8, sku , current ,Sampl8, text 
 inventory,total, B0SAMPL9, sku , current ,Sampl9, text 
-inventory,total, B0SAMPL1, product-title , current ,Redemption Song, text 
-inventory,total, B0SAMPL2, product-title , current ,Three Little Birds, text 
-inventory,total, B0SAMPL3, product-title , current ,One Love, text 
-inventory,total, B0SAMPL4, product-title , current ,"Get Up, Stand Up", text 
-inventory,total, B0SAMPL5, product-title , current ,Jamming, text 
-inventory,total, B0SAMPL6, product-title , current ,Sun Is Shining, text 
-inventory,total, B0SAMPL7, product-title , current ,Zimbabwe, text 
-inventory,total, B0SAMPL8, product-title , current ,Survival, text 
-inventory,total, B0SAMPL9, product-title , current ,Africa Unite, text 
+inventory,total, B0SAMPL1, product-title , current ,Smart Watch, text 
+inventory,total, B0SAMPL2, product-title , current ,Smart Ring, text 
+inventory,total, B0SAMPL3, product-title , current ,Plant Protein, text 
+inventory,total, B0SAMPL4, product-title , current ,Superfood Shakes, text 
+inventory,total, B0SAMPL5, product-title , current ,Recovery Blend, text 
+inventory,total, B0SAMPL6, product-title , current ,Mental Clarity, text 
+inventory,total, B0SAMPL7, product-title , current ,Serenity Now, text 
+inventory,total, B0SAMPL8, product-title , current ,Resistance Band, text 
+inventory,total, B0SAMPL9, product-title , current ,Neck Bands, text 
 inventory,total, B0SAMPL1, 90-day-forecast , current ,390, units 
 inventory,total, B0SAMPL2, 90-day-forecast , current ,13605, units 
 inventory,total, B0SAMPL3, 90-day-forecast , current ,1740, units 
@@ -85,21 +85,21 @@ sales,total,advertising-spend,cost,2025-03,1320,dollars
 sales,total,promotional-spend,cost,2025-03,0,dollars
 sales,total,GCOS,calculated,2025-03,14.29,percentage
 sales,total,profit-margin,calculated,2025-03,9.7,percentage
-marketing,roots,segment,sales,2025-03,7695,dollars
-marketing,roots,segment,advertising-spend,2025-03,1320,dollars
-marketing,roots,segment,GCOS,2025-03,17.21,percentage
-marketing,roots,segment,share-of-voice,2025-03,4.79,percentage
-marketing,roots,segment,segment-share,2025-03,3.33,percentage
-marketing,reggae,segment,sales,2025-03,900,dollars
-marketing,reggae,segment,advertising-spend,2025-03,0,dollars
-marketing,reggae,segment,GCOS,2025-03,0,percentage
-marketing,reggae,segment,share-of-voice,2025-03,1.28,percentage
-marketing,reggae,segment,segment-share,2025-03,0,percentage
-marketing,rock,segment,sales,2025-03,900,dollars
-marketing,rock,segment,advertising-spend,2025-03,0,dollars
-marketing,rock,segment,GCOS,2025-03,0,percentage
-marketing,rock,segment,share-of-voice,2025-03,2.88,percentage
-marketing,rock,segment,segment-share,2025-03,0,percentage
+marketing,wearables,segment,sales,2025-03,7695,dollars
+marketing,wearables,segment,advertising-spend,2025-03,1320,dollars
+marketing,wearables,segment,GCOS,2025-03,17.21,percentage
+marketing,wearables,segment,share-of-voice,2025-03,4.79,percentage
+marketing,wearables,segment,segment-share,2025-03,3.33,percentage
+marketing,supplements,segment,sales,2025-03,900,dollars
+marketing,supplements,segment,advertising-spend,2025-03,0,dollars
+marketing,supplements,segment,GCOS,2025-03,0,percentage
+marketing,supplements,segment,share-of-voice,2025-03,1.28,percentage
+marketing,supplements,segment,segment-share,2025-03,0,percentage
+marketing,resistance bands,segment,sales,2025-03,900,dollars
+marketing,resistance bands,segment,advertising-spend,2025-03,0,dollars
+marketing,resistance bands,segment,GCOS,2025-03,0,percentage
+marketing,resistance bands,segment,share-of-voice,2025-03,2.88,percentage
+marketing,resistance bands,segment,segment-share,2025-03,0,percentage
 sales,total,actual,revenue,2025-04,75630,dollars
 sales,total,gross-sales,revenue,2025-04,75630,dollars
 sales,total,units-sold,units,2025-04,374,units
@@ -113,21 +113,21 @@ sales,total,advertising-spend,cost,2025-04,9045,dollars
 sales,total,promotional-spend,cost,2025-04,0,dollars
 sales,total,GCOS,calculated,2025-04,11.97,percentage
 sales,total,profit-margin,calculated,2025-04,3.65,percentage
-marketing,roots,segment,sales,2025-04,58410,dollars
-marketing,roots,segment,advertising-spend,2025-04,6405,dollars
-marketing,roots,segment,GCOS,2025-04,11.06,percentage
-marketing,roots,segment,share-of-voice,2025-04,7.4,percentage
-marketing,roots,segment,segment-share,2025-04,11.7,percentage
-marketing,reggae,segment,sales,2025-04,11145,dollars
-marketing,reggae,segment,advertising-spend,2025-04,1830,dollars
-marketing,reggae,segment,GCOS,2025-04,16.38,percentage
-marketing,reggae,segment,share-of-voice,2025-04,2.4,percentage
-marketing,reggae,segment,segment-share,2025-04,5.26,percentage
-marketing,rock,segment,sales,2025-04,6075,dollars
-marketing,rock,segment,advertising-spend,2025-04,750,dollars
-marketing,rock,segment,GCOS,2025-04,12.61,percentage
-marketing,rock,segment,share-of-voice,2025-04,0.48,percentage
-marketing,rock,segment,segment-share,2025-04,0.92,percentage
+marketing,wearables,segment,sales,2025-04,58410,dollars
+marketing,wearables,segment,advertising-spend,2025-04,6405,dollars
+marketing,wearables,segment,GCOS,2025-04,11.06,percentage
+marketing,wearables,segment,share-of-voice,2025-04,7.4,percentage
+marketing,wearables,segment,segment-share,2025-04,11.7,percentage
+marketing,supplements,segment,sales,2025-04,11145,dollars
+marketing,supplements,segment,advertising-spend,2025-04,1830,dollars
+marketing,supplements,segment,GCOS,2025-04,16.38,percentage
+marketing,supplements,segment,share-of-voice,2025-04,2.4,percentage
+marketing,supplements,segment,segment-share,2025-04,5.26,percentage
+marketing,resistance bands,segment,sales,2025-04,6075,dollars
+marketing,resistance bands,segment,advertising-spend,2025-04,750,dollars
+marketing,resistance bands,segment,GCOS,2025-04,12.61,percentage
+marketing,resistance bands,segment,share-of-voice,2025-04,0.48,percentage
+marketing,resistance bands,segment,segment-share,2025-04,0.92,percentage
 sales,total,actual,revenue,2025-05,68340,dollars
 sales,total,gross-sales,revenue,2025-05,69030,dollars
 sales,total,units-sold,units,2025-05,325,units
@@ -141,21 +141,21 @@ sales,total,advertising-spend,cost,2025-05,7455,dollars
 sales,total,promotional-spend,cost,2025-05,690,dollars
 sales,total,GCOS,calculated,2025-05,11.79,percentage
 sales,total,profit-margin,calculated,2025-05,2.67,percentage
-marketing,roots,segment,sales,2025-05,54315,dollars
-marketing,roots,segment,advertising-spend,2025-05,5475,dollars
-marketing,roots,segment,GCOS,2025-05,11.15,percentage
-marketing,roots,segment,share-of-voice,2025-05,6.39,percentage
-marketing,roots,segment,segment-share,2025-05,9.83,percentage
-marketing,reggae,segment,sales,2025-05,9540,dollars
-marketing,reggae,segment,advertising-spend,2025-05,1635,dollars
-marketing,reggae,segment,GCOS,2025-05,9.33,percentage
-marketing,reggae,segment,share-of-voice,2025-05,2.51,percentage
-marketing,reggae,segment,segment-share,2025-05,8.43,percentage
-marketing,rock,segment,sales,2025-05,4500,dollars
-marketing,rock,segment,advertising-spend,2025-05,360,dollars
-marketing,rock,segment,GCOS,2025-05,8.01,percentage
-marketing,rock,segment,share-of-voice,2025-05,0.54,percentage
-marketing,rock,segment,segment-share,2025-05,1.23,percentage
+marketing,wearables,segment,sales,2025-05,54315,dollars
+marketing,wearables,segment,advertising-spend,2025-05,5475,dollars
+marketing,wearables,segment,GCOS,2025-05,11.15,percentage
+marketing,wearables,segment,share-of-voice,2025-05,6.39,percentage
+marketing,wearables,segment,segment-share,2025-05,9.83,percentage
+marketing,supplements,segment,sales,2025-05,9540,dollars
+marketing,supplements,segment,advertising-spend,2025-05,1635,dollars
+marketing,supplements,segment,GCOS,2025-05,9.33,percentage
+marketing,supplements,segment,share-of-voice,2025-05,2.51,percentage
+marketing,supplements,segment,segment-share,2025-05,8.43,percentage
+marketing,resistance bands,segment,sales,2025-05,4500,dollars
+marketing,resistance bands,segment,advertising-spend,2025-05,360,dollars
+marketing,resistance bands,segment,GCOS,2025-05,8.01,percentage
+marketing,resistance bands,segment,share-of-voice,2025-05,0.54,percentage
+marketing,resistance bands,segment,segment-share,2025-05,1.23,percentage
 sales,total,actual,revenue,2025-06,77310,dollars
 sales,total,forecast,revenue,2025-06,97200,dollars
 sales,total,gross-sales,revenue,2025-06,77790,dollars
@@ -170,23 +170,23 @@ sales,total,advertising-spend,cost,2025-06,8835,dollars
 sales,total,promotional-spend,cost,2025-06,480,dollars
 sales,total,GCOS,calculated,2025-06,11.97,percentage
 sales,total,profit-margin,calculated,2025-06,9.95,percentage
-marketing,roots,segment,sales,2025-06,65400,dollars
-marketing,roots,segment,advertising-spend,2025-06,7575,dollars
-marketing,roots,segment,GCOS,2025-06,11.19,percentage
-marketing,roots,segment,share-of-voice,2025-06,8.76,percentage
-marketing,roots,segment,segment-share,2025-06,8.3,percentage
-marketing,reggae,segment,sales,2025-06,9450,dollars
-marketing,reggae,segment,advertising-spend,2025-06,1395,dollars
-marketing,reggae,segment,GCOS,2025-06,13.51,percentage
-marketing,reggae,segment,share-of-voice,2025-06,4.06,percentage
-marketing,reggae,segment,segment-share,2025-06,14.63,percentage
-marketing,rock,segment,sales,2025-06,2475,dollars
-marketing,rock,segment,advertising-spend,2025-06,780,dollars
-marketing,rock,segment,GCOS,2025-06,27.09,percentage
-marketing,rock,segment,share-of-voice,2025-06,0.39,percentage
-marketing,rock,segment,segment-share,2025-06,0.51,percentage
+marketing,wearables,segment,sales,2025-06,65400,dollars
+marketing,wearables,segment,advertising-spend,2025-06,7575,dollars
+marketing,wearables,segment,GCOS,2025-06,11.19,percentage
+marketing,wearables,segment,share-of-voice,2025-06,8.76,percentage
+marketing,wearables,segment,segment-share,2025-06,8.3,percentage
+marketing,supplements,segment,sales,2025-06,9450,dollars
+marketing,supplements,segment,advertising-spend,2025-06,1395,dollars
+marketing,supplements,segment,GCOS,2025-06,13.51,percentage
+marketing,supplements,segment,share-of-voice,2025-06,4.06,percentage
+marketing,supplements,segment,segment-share,2025-06,14.63,percentage
+marketing,resistance bands,segment,sales,2025-06,2475,dollars
+marketing,resistance bands,segment,advertising-spend,2025-06,780,dollars
+marketing,resistance bands,segment,GCOS,2025-06,27.09,percentage
+marketing,resistance bands,segment,share-of-voice,2025-06,0.39,percentage
+marketing,resistance bands,segment,segment-share,2025-06,0.51,percentage
 sales,total,actual,revenue,2025-07 MTD,46386,dollars
-sales,total,forecast,revenue,2025-07 MTD,124620,dollars
+sales,total,forecast,revenue,2025-07 MTD,58320,dollars
 sales,total,gross-sales,revenue,2025-07 MTD,46674,dollars
 sales,total,units-sold,units,2025-07 MTD,215,units
 sales,total,COGS,cost,2025-07 MTD,11583,dollars
@@ -199,18 +199,18 @@ sales,total,advertising-spend,cost,2025-07 MTD,5301,dollars
 sales,total,promotional-spend,cost,2025-07 MTD,288,dollars
 sales,total,GCOS,calculated,2025-07 MTD,11.97,percentage
 sales,total,profit-margin,calculated,2025-07 MTD,9.95,percentage
-marketing,roots,segment,sales,2025-07 MTD,39240,dollars
-marketing,roots,segment,advertising-spend,2025-07 MTD,4545,dollars
-marketing,roots,segment,GCOS,2025-07 MTD,11.83,percentage
-marketing,roots,segment,share-of-voice,2025-07 MTD,9.84,percentage
-marketing,roots,segment,segment-share,2025-07 MTD,12.8,percentage
-marketing,reggae,segment,sales,2025-07 MTD,5670,dollars
-marketing,reggae,segment,advertising-spend,2025-07 MTD,837,dollars
-marketing,reggae,segment,GCOS,2025-07 MTD,13.51,percentage
-marketing,reggae,segment,share-of-voice,2025-07 MTD,8.03,percentage
-marketing,reggae,segment,segment-share,2025-07 MTD,18.89,percentage
-marketing,rock,segment,sales,2025-07 MTD,1485,dollars
-marketing,rock,segment,advertising-spend,2025-07 MTD,468,dollars
-marketing,rock,segment,GCOS,2025-07 MTD,27.09,percentage
-marketing,rock,segment,share-of-voice,2025-07 MTD,4.05,percentage
-marketing,rock,segment,segment-share,2025-07 MTD,7.32,percentage
+marketing,wearables,segment,sales,2025-07 MTD,39240,dollars
+marketing,wearables,segment,advertising-spend,2025-07 MTD,4545,dollars
+marketing,wearables,segment,GCOS,2025-07 MTD,11.83,percentage
+marketing,wearables,segment,share-of-voice,2025-07 MTD,9.84,percentage
+marketing,wearables,segment,segment-share,2025-07 MTD,12.8,percentage
+marketing,supplements,segment,sales,2025-07 MTD,5670,dollars
+marketing,supplements,segment,advertising-spend,2025-07 MTD,837,dollars
+marketing,supplements,segment,GCOS,2025-07 MTD,13.51,percentage
+marketing,supplements,segment,share-of-voice,2025-07 MTD,8.03,percentage
+marketing,supplements,segment,segment-share,2025-07 MTD,18.89,percentage
+marketing,resistance bands,segment,sales,2025-07 MTD,1485,dollars
+marketing,resistance bands,segment,advertising-spend,2025-07 MTD,468,dollars
+marketing,resistance bands,segment,GCOS,2025-07 MTD,27.09,percentage
+marketing,resistance bands,segment,share-of-voice,2025-07 MTD,4.05,percentage
+marketing,resistance bands,segment,segment-share,2025-07 MTD,7.32,percentage
