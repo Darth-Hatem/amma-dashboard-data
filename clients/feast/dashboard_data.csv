@@ -1,21 +1,21 @@
 dataType,category,identifier,metric,period,value,unit
 inventory,total, B08QRHYV43 , current-stock , current ,21, units 
-inventory,total, B07MFR2F5F , current-stock , current ,210, units 
-inventory,total, B07ZS7F85G , current-stock , current ,116, units 
-inventory,total, B08N1K437Y , current-stock , current ,21, units 
-inventory,total, B07YYTJX3H , current-stock , current ,171, units 
-inventory,total, B07YYT6CT9 , current-stock , current ,25, units 
-inventory,total, B08MBDVH8C , current-stock , current ,72, units 
-inventory,total, B081VV9NWR , current-stock , current ,26, units 
-inventory,total, B0743HKFBM , current-stock , current ,45, units 
-inventory,total, B08MBC3445 , current-stock , current ,34, units 
+inventory,total, B07MFR2F5F , current-stock , current ,505, units 
+inventory,total, B07ZS7F85G , current-stock , current ,109, units 
+inventory,total, B08N1K437Y , current-stock , current ,22, units 
+inventory,total, B07YYTJX3H , current-stock , current ,150, units 
+inventory,total, B07YYT6CT9 , current-stock , current ,23, units 
+inventory,total, B08MBDVH8C , current-stock , current ,63, units 
+inventory,total, B081VV9NWR , current-stock , current ,25, units 
+inventory,total, B0743HKFBM , current-stock , current ,40, units 
+inventory,total, B08MBC3445 , current-stock , current ,27, units 
 inventory,total, B08MFSVDVF , current-stock , current ,40, units 
-inventory,total, B08MBC9F35 , current-stock , current ,40, units 
-inventory,total, B08N1JYC2K , current-stock , current ,10, units 
+inventory,total, B08MBC9F35 , current-stock , current ,38, units 
+inventory,total, B08N1JYC2K , current-stock , current ,9, units 
 inventory,total, B08LP31K4W , current-stock , current ,10, units 
 inventory,total, B08LQ14SLL , current-stock , current ,11, units 
-inventory,total, B0743JDCCP , current-stock , current ,52, units 
-inventory,total, B0743JDQMW , current-stock , current ,63, units 
+inventory,total, B0743JDCCP , current-stock , current ,50, units 
+inventory,total, B0743JDQMW , current-stock , current ,62, units 
 inventory,total, B09N2WS6P8 , current-stock , current ,6, units 
 inventory,total, B08QRHYV43 , sku , current ,KIT1-FBA-1, text 
 inventory,total, B07MFR2F5F , sku , current ,CLS9-FBA-1, text 
@@ -53,68 +53,68 @@ inventory,total, B08LQ14SLL , product-title , current ,Black Peppercorn Bacon Ja
 inventory,total, B0743JDCCP , product-title , current ,Black Peppercorn Bacon Jam - 1 x 9 oz, text 
 inventory,total, B0743JDQMW , product-title , current ,Sweet Chili Bacon Jam - 1 x 9 oz, text 
 inventory,total, B09N2WS6P8 , product-title , current ,Seasoning Variety Pack, text 
-inventory,total, B08QRHYV43 , 90-day-forecast , current ,24, units 
-inventory,total, B07MFR2F5F , 90-day-forecast , current ,965, units 
-inventory,total, B07ZS7F85G , 90-day-forecast , current ,113, units 
-inventory,total, B08N1K437Y , 90-day-forecast , current ,20, units 
-inventory,total, B07YYTJX3H , 90-day-forecast , current ,205, units 
-inventory,total, B07YYT6CT9 , 90-day-forecast , current ,49, units 
-inventory,total, B08MBDVH8C , 90-day-forecast , current ,101, units 
-inventory,total, B081VV9NWR , 90-day-forecast , current ,43, units 
-inventory,total, B0743HKFBM , 90-day-forecast , current ,36, units 
-inventory,total, B08MBC3445 , 90-day-forecast , current ,33, units 
-inventory,total, B08MFSVDVF , 90-day-forecast , current ,39, units 
-inventory,total, B08MBC9F35 , 90-day-forecast , current ,30, units 
+inventory,total, B08QRHYV43 , 90-day-forecast , current ,22, units 
+inventory,total, B07MFR2F5F , 90-day-forecast , current ,995, units 
+inventory,total, B07ZS7F85G , 90-day-forecast , current ,109, units 
+inventory,total, B08N1K437Y , 90-day-forecast , current ,18, units 
+inventory,total, B07YYTJX3H , 90-day-forecast , current ,211, units 
+inventory,total, B07YYT6CT9 , 90-day-forecast , current ,47, units 
+inventory,total, B08MBDVH8C , 90-day-forecast , current ,103, units 
+inventory,total, B081VV9NWR , 90-day-forecast , current ,44, units 
+inventory,total, B0743HKFBM , 90-day-forecast , current ,34, units 
+inventory,total, B08MBC3445 , 90-day-forecast , current ,34, units 
+inventory,total, B08MFSVDVF , 90-day-forecast , current ,40, units 
+inventory,total, B08MBC9F35 , 90-day-forecast , current ,31, units 
 inventory,total, B08N1JYC2K , 90-day-forecast , current ,5, units 
 inventory,total, B08LP31K4W , 90-day-forecast , current ,5, units 
 inventory,total, B08LQ14SLL , 90-day-forecast , current ,5, units 
-inventory,total, B0743JDCCP , 90-day-forecast , current ,24, units 
-inventory,total, B0743JDQMW , 90-day-forecast , current ,22, units 
+inventory,total, B0743JDCCP , 90-day-forecast , current ,25, units 
+inventory,total, B0743JDQMW , 90-day-forecast , current ,21, units 
 inventory,total, B09N2WS6P8 , 90-day-forecast , current ,0, units 
-inventory,total, B08QRHYV43 , days-of-supply , current ,59, days 
-inventory,total, B07MFR2F5F , days-of-supply , current ,23, days 
-inventory,total, B07ZS7F85G , days-of-supply , current ,93, days 
-inventory,total, B08N1K437Y , days-of-supply , current ,102, days 
-inventory,total, B07YYTJX3H , days-of-supply , current ,76, days 
-inventory,total, B07YYT6CT9 , days-of-supply , current ,39, days 
-inventory,total, B08MBDVH8C , days-of-supply , current ,67, days 
-inventory,total, B081VV9NWR , days-of-supply , current ,58, days 
-inventory,total, B0743HKFBM , days-of-supply , current ,128, days 
-inventory,total, B08MBC3445 , days-of-supply , current ,92, days 
-inventory,total, B08MFSVDVF , days-of-supply , current ,92, days 
-inventory,total, B08MBC9F35 , days-of-supply , current ,115, days 
-inventory,total, B08N1JYC2K , days-of-supply , current ,206, days 
-inventory,total, B08LP31K4W , days-of-supply , current ,206, days 
-inventory,total, B08LQ14SLL , days-of-supply , current ,226, days 
-inventory,total, B0743JDCCP , days-of-supply , current ,157, days 
-inventory,total, B0743JDQMW , days-of-supply , current ,266, days 
+inventory,total, B08QRHYV43 , days-of-supply , current ,79, days 
+inventory,total, B07MFR2F5F , days-of-supply , current ,49, days 
+inventory,total, B07ZS7F85G , days-of-supply , current ,89, days 
+inventory,total, B08N1K437Y , days-of-supply , current ,122, days 
+inventory,total, B07YYTJX3H , days-of-supply , current ,66, days 
+inventory,total, B07YYT6CT9 , days-of-supply , current ,36, days 
+inventory,total, B08MBDVH8C , days-of-supply , current ,58, days 
+inventory,total, B081VV9NWR , days-of-supply , current ,54, days 
+inventory,total, B0743HKFBM , days-of-supply , current ,116, days 
+inventory,total, B08MBC3445 , days-of-supply , current ,72, days 
+inventory,total, B08MFSVDVF , days-of-supply , current ,90, days 
+inventory,total, B08MBC9F35 , days-of-supply , current ,106, days 
+inventory,total, B08N1JYC2K , days-of-supply , current ,198, days 
+inventory,total, B08LP31K4W , days-of-supply , current ,220, days 
+inventory,total, B08LQ14SLL , days-of-supply , current ,242, days 
+inventory,total, B0743JDCCP , days-of-supply , current ,148, days 
+inventory,total, B0743JDQMW , days-of-supply , current ,277, days 
 inventory,total, B09N2WS6P8 , days-of-supply , current ,365, days 
-inventory,total, B08QRHYV43 , sales-last-month , current ,3, days 
-inventory,total, B07MFR2F5F , sales-last-month , current ,274, days 
-inventory,total, B07ZS7F85G , sales-last-month , current ,19, days 
-inventory,total, B08N1K437Y , sales-last-month , current ,3, days 
-inventory,total, B07YYTJX3H , sales-last-month , current ,50, days 
+inventory,total, B08QRHYV43 , sales-last-month , current ,1, days 
+inventory,total, B07MFR2F5F , sales-last-month , current ,237, days 
+inventory,total, B07ZS7F85G , sales-last-month , current ,22, days 
+inventory,total, B08N1K437Y , sales-last-month , current ,2, days 
+inventory,total, B07YYTJX3H , sales-last-month , current ,57, days 
 inventory,total, B07YYT6CT9 , sales-last-month , current ,2, days 
-inventory,total, B08MBDVH8C , sales-last-month , current ,25, days 
-inventory,total, B081VV9NWR , sales-last-month , current ,5, days 
-inventory,total, B0743HKFBM , sales-last-month , current ,9, days 
-inventory,total, B08MBC3445 , sales-last-month , current ,8, days 
-inventory,total, B08MFSVDVF , sales-last-month , current ,14, days 
+inventory,total, B08MBDVH8C , sales-last-month , current ,22, days 
+inventory,total, B081VV9NWR , sales-last-month , current ,3, days 
+inventory,total, B0743HKFBM , sales-last-month , current ,10, days 
+inventory,total, B08MBC3445 , sales-last-month , current ,14, days 
+inventory,total, B08MFSVDVF , sales-last-month , current ,11, days 
 inventory,total, B08MBC9F35 , sales-last-month , current ,5, days 
-inventory,total, B08N1JYC2K , sales-last-month , current ,1, days 
+inventory,total, B08N1JYC2K , sales-last-month , current ,2, days 
 inventory,total, B08LP31K4W , sales-last-month , current ,1, days 
 inventory,total, B08LQ14SLL , sales-last-month , current ,0, days 
-inventory,total, B0743JDCCP , sales-last-month , current ,9, days 
-inventory,total, B0743JDQMW , sales-last-month , current ,3, days 
+inventory,total, B0743JDCCP , sales-last-month , current ,10, days 
+inventory,total, B0743JDQMW , sales-last-month , current ,4, days 
 inventory,total, B09N2WS6P8 , sales-last-month , current ,0, days 
-inventory,total, B08QRHYV43 , requested-quantity , current ,3, units 
-inventory,total, B07MFR2F5F , requested-quantity , current ,755, units 
+inventory,total, B08QRHYV43 , requested-quantity , current ,, units 
+inventory,total, B07MFR2F5F , requested-quantity , current ,490, units 
 inventory,total, B07ZS7F85G , requested-quantity , current ,, units 
 inventory,total, B08N1K437Y , requested-quantity , current ,, units 
 inventory,total, B07YYTJX3H , requested-quantity , current ,, units 
 inventory,total, B07YYT6CT9 , requested-quantity , current ,24, units 
-inventory,total, B08MBDVH8C , requested-quantity , current ,, units 
-inventory,total, B081VV9NWR , requested-quantity , current ,17, units 
+inventory,total, B08MBDVH8C , requested-quantity , current ,40, units 
+inventory,total, B081VV9NWR , requested-quantity , current ,19, units 
 inventory,total, B0743HKFBM , requested-quantity , current ,, units 
 inventory,total, B08MBC3445 , requested-quantity , current ,, units 
 inventory,total, B08MFSVDVF , requested-quantity , current ,, units 
@@ -247,32 +247,32 @@ marketing,seasoning,segment,advertising-spend,2025-06,62,dollars
 marketing,seasoning,segment,GCOS,2025-06,27.43,percentage
 marketing,seasoning,segment,share-of-voice,2025-06,0.62,percentage
 marketing,seasoning,segment,segment-share,2025-06,0.58,percentage
-sales,total,actual,revenue,2025-07 MTD,900,dollars
+sales,total,actual,revenue,2025-07 MTD,1437,dollars
 sales,total,forecast,revenue,2025-07 MTD,8308,dollars
-sales,total,gross-sales,revenue,2025-07 MTD,916,dollars
-sales,total,units-sold,units,2025-07 MTD,60,units
-sales,total,COGS,cost,2025-07 MTD,238,dollars
-sales,total,referall-and-account,cost,2025-07 MTD,92,dollars
-sales,total,fulfillment,cost,2025-07 MTD,313,dollars
-sales,total,storage,cost,2025-07 MTD,7,dollars
-sales,total,inbound-shipping,cost,2025-07 MTD,38,dollars
-sales,total,amma-partners,cost,2025-07 MTD,45,dollars
-sales,total,advertising-spend,cost,2025-07 MTD,158,dollars
-sales,total,promotional-spend,cost,2025-07 MTD,17,dollars
-sales,total,GCOS,calculated,2025-07 MTD,19.03,percentage
-sales,total,profit-margin,calculated,2025-07 MTD,0.94,percentage
-marketing,bacon-jam,segment,sales,2025-07 MTD,706,dollars
-marketing,bacon-jam,segment,advertising-spend,2025-07 MTD,49,dollars
-marketing,bacon-jam,segment,GCOS,2025-07 MTD,18.05,percentage
-marketing,bacon-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage
-marketing,bacon-jam,segment,segment-share,2025-07 MTD,0.00,percentage
-marketing,tomato-jam,segment,sales,2025-07 MTD,119,dollars
-marketing,tomato-jam,segment,advertising-spend,2025-07 MTD,16,dollars
-marketing,tomato-jam,segment,GCOS,2025-07 MTD,20.77,percentage
-marketing,tomato-jam,segment,share-of-voice,2025-07 MTD,0.00,percentage
-marketing,tomato-jam,segment,segment-share,2025-07 MTD,0.00,percentage
-marketing,seasoning,segment,sales,2025-07 MTD,75,dollars
-marketing,seasoning,segment,advertising-spend,2025-07 MTD,9,dollars
-marketing,seasoning,segment,GCOS,2025-07 MTD,16.61,percentage
-marketing,seasoning,segment,share-of-voice,2025-07 MTD,0.00,percentage
-marketing,seasoning,segment,segment-share,2025-07 MTD,0.00,percentage
+sales,total,gross-sales,revenue,2025-07 MTD,1464,dollars
+sales,total,units-sold,units,2025-07 MTD,95,units
+sales,total,COGS,cost,2025-07 MTD,381,dollars
+sales,total,referall-and-account,cost,2025-07 MTD,138,dollars
+sales,total,fulfillment,cost,2025-07 MTD,516,dollars
+sales,total,storage,cost,2025-07 MTD,11,dollars
+sales,total,inbound-shipping,cost,2025-07 MTD,61,dollars
+sales,total,amma-partners,cost,2025-07 MTD,72,dollars
+sales,total,advertising-spend,cost,2025-07 MTD,249,dollars
+sales,total,promotional-spend,cost,2025-07 MTD,27,dollars
+sales,total,GCOS,calculated,2025-07 MTD,18.83,percentage
+sales,total,profit-margin,calculated,2025-07 MTD,0.64,percentage
+marketing,bacon-jam,segment,sales,2025-07 MTD,1039,dollars
+marketing,bacon-jam,segment,advertising-spend,2025-07 MTD,179,dollars
+marketing,bacon-jam,segment,GCOS,2025-07 MTD,27.06,percentage
+marketing,bacon-jam,segment,share-of-voice,2025-07 MTD,7.45,percentage
+marketing,bacon-jam,segment,segment-share,2025-07 MTD,9.09,percentage
+marketing,tomato-jam,segment,sales,2025-07 MTD,264,dollars
+marketing,tomato-jam,segment,advertising-spend,2025-07 MTD,50,dollars
+marketing,tomato-jam,segment,GCOS,2025-07 MTD,16.14,percentage
+marketing,tomato-jam,segment,share-of-voice,2025-07 MTD,4.11,percentage
+marketing,tomato-jam,segment,segment-share,2025-07 MTD,8.75,percentage
+marketing,seasoning,segment,sales,2025-07 MTD,135,dollars
+marketing,seasoning,segment,advertising-spend,2025-07 MTD,47,dollars
+marketing,seasoning,segment,GCOS,2025-07 MTD,12.30,percentage
+marketing,seasoning,segment,share-of-voice,2025-07 MTD,2.28,percentage
+marketing,seasoning,segment,segment-share,2025-07 MTD,0.57,percentage
